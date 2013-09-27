@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI
+  xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Iliad</title>
+        <editor>Megan Truax</editor>
+        <editor>Beni Ransom</editor>
+        <editor>Karl Grant</editor>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished edition of the Venetus A manuscript for the Homer Multitext project</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Edited directly from photography of the manuscript</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="10"><l n="402">ἵ̈ππων <persName n="urn:cite:hmt:pers.pers1">Αἰακίδαο</persName> δαί̈φρονος· οἳ δ`'
+          ἀλεγεινοὶ</l>
+        <l n="403">ἀνδράσι γε θνητοῖσι δαμήμεναι· ἠδ' ὀχέεσθαι </l>
+        <l n="404">ἄλλω γ'. ἢ <persName n="urn:cite:hmt:pers.pers1">Ἀχιλῆϊ</persName>, τὸν ἀθανάτη τέκε μήτηρ·</l>
+        <l n="405">ἂλλ' ἄγε μοι τόδε εἰπὲ καὶ ἀτρεκέως κατάλεξον·</l>
+        <l n="406">ποῦ νῦν, δεῦρο κιὼν. λίπες <persName n="urn:cite:hmt:pers.pers172">Ἕκτορα</persName> ποιμένα λαῶν·</l>
+        <l n="407">ποῦ δέ οί ἔντεα κεῖται ἀρήϊα· ποῦ δέ οἱ ἵ̈πποι.</l>
+        <l n="408">πῶς δαὶ, τῶν ἄλλων <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> φυλακαί τε καὶ εὐναὶ.</l>
+        <l n="409">ἄσσά τε μητιόωσι μετὰ σφίσιν. ἢ μεμάᾱσιν</l>
+        <l n="410">αὖθι μένειν παρὰ νηυσὶν, ἀπόπροθεν. ἢε πόλιν δὲ</l>
+        <l n="411">ὰψ ἀναχωρήσουσιν. ἐπεὶ δαμάσαντό γ' <rs type="ethnic" n="urn:cite:hmt:place.place96">Ἀχαιούς</rs>·</l>
+        <l n="412">Τὸν δ' αῦτε προσέειπε <persName n="urn:cite:hmt:pers.pers555">Δόλων</persName> Εὐμήδεος υἱός·</l>
+        <l n="413">τοὶ γὰρ ἐγώ τοι ταῦτα μάλ' ἀτρεκέως καταλέξω·</l>
+        <l n="414"><persName n="urn:cite:hmt:pers.pers172">Ἕκτωρ</persName> μὲν μετὰ τοῖσιν, ὅσοι βουληφόροι εἰσὶν·</l>
+        <l n="415">βουλὰς βουλεύει θείου παρὰ σήματι Ί̈λου</l>
+        <l n="416">νόσφιν ἀπο φλοίσβου· φυλακὰς δ', ἃς εἴρεαι ἥρως.</l>
+        <l n="417">οὔ τις κεκριμένη ῥύεται στρατὸν οὐδὲ φυλάσσει·</l>
+        <l n="418">ὅσσαι <choice><orig>μὲν</orig><reg>γὰρ</reg></choice> <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> πυρὸς ἐσχάραι· οἷσιν ἀνάγκη.</l>
+        <l n="419">οἷ δ' ἐγρηγόρθασι· φυλασσέμεναί τε κέλονται</l>
+        <l n="420">ἀλλήλοις· ἀτὰρ αὖτε πολύκλητοί τ' ἐπίκουροι</l>
+        <l n="421">εὕδουσιν. <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρωσὶν</rs> γὰρ ἐπιτραπέουσι φυλάσσειν.</l>
+        <l n="422">οὐ γάρ σφιν παῖδες σχεδὸν εἵαται. οὐδε γυναῖκες·</l>
+        <l n="423">Τὸν δ' ἀπαμειβόμενος προσέφη πολύμητις <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεύς</persName>·</l>
+        <l n="424">πῶς γὰρ δὴ <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώεσσι</rs> μεμιγμένοι ἵ̈πποδάμοισιν</l>
+        <l n="425">εὕδουσ', ἦ ἀπάνευθε. δίειπέ μοι. ὄφρα δαείω·</l>
+        <l n="426">Τὸν δ' ἠμείβετ' ἔπειτα <persName n="urn:cite:hmt:pers.pers555">Δόλων</persName> Εὐμήδεος υἱός·</l></div>
+    </body>
+  </text>
+</TEI>
