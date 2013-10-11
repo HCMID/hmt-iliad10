@@ -21,31 +21,31 @@
   <text>
     <body>
       <div n="10">
-        <l n="1">Ἄλλοι μὲν παρὰ νηυσὶν ἀριστῆες <rs n="urn:cite:hmt:place.place96" type="ethnic">Παναχαιῶν</rs> </l>
+        <l n="1">Ἄλλοι μὲν παρὰ νηυσὶν ἀριστῆες <rs n="urn:cite:hmt:place.place96" type="ethnic">παναχαιῶν</rs> </l>
         <l n="2">εὗδον παννύχιοι. μαλακῷ δεδμημένοι ὕπνῳ·</l>
-        <l n="3">ἀλλ᾽ οὐκ <persName n="urn:cite:hmt:pers.pers497">Ἀτρεΐδην</persName> <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονα</persName> ποιμένα λαῶν</l>
-        <l n="4">ὕπνος ἔχε γλυκερὸς. πολλὰ φρεσὶν ὁρμαίνοντα.</l>
-        <l n="5">ὡς δ᾽ ὅτἂν ἀστράπτῃ πόσις <persName n="urn:cite:hmt:pers.pers116">Ἥρης</persName> ἠϋκόμοιο.</l>
+        <l n="3">ἀλλ᾽’ οὐκ <persName n="urn:cite:hmt:pers.pers497">ἀτρείδην</persName> <persName n="urn:cite:hmt:pers.pers22">ἀγαμέμνονα</persName> ποιμένα λαῶν</l>
+        <l n="4">ὕπνος ἔχε γλυκερὸς. πολλὰ φρεσὶν ὁρμαίνοντα·</l>
+        <l n="5">ὡς δ᾽ ὅτἂν ἀστράπτῃ πόσις <persName n="urn:cite:hmt:pers.pers116">ἥρης</persName> ἠϋκόμοιο.</l>
         <l n="6">τεύχων ἠ πολὺν ὄμβρον. ἀθέσφατον. ἠὲ χάλαζαν.</l>
-        <l n="7">ἢ νιφετόν, ὅτε πέρ τε χιὼν ἐπάλυνεν ἀρούρᾱς,</l>
-        <l n="8">ἠέ <choice><orig>πόθι</orig><reg>πόδε</reg></choice> πτολέμοιο μέγα στόμα πευκεδανοῖο,</l>
-        <l n="9">ὣς πυκίν᾽ ἐν στήθεσσιν ἀνεστενάχιζ᾽ <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName></l>
-        <l n="10">νειόθεν ἐκ κραδίης, τρομέοντο δέ οἱ φρένες ἐντός</l>
-        <l n="11">ἤτοι ὅτ᾽ ἐς πεδίον τὸ <placeName n="urn:cite:hmt:place.place15">Τρωϊκὸν</placeName> ἀθρήσειε.</l>
-        <l n="12">θαύμαζεν πυρὰ πολλὰ. τὰ καίετο <placeName n="urn:cite:hmt:place.place6">Ἰλιόθι</placeName> πρὸ.</l>
+        <l n="7">ἢ νιφετόν. ὅτε πέρ τε χιὼν ἐπάλυνεν ἀρούρᾱς.</l>
+        <l n="8">ἠέ πόθι πτολέμοιο μέγα στόμα πευκεδανοῖο.</l>
+        <l n="9">ὡς πυκὶν᾽ ἐν στήθεσσιν ἀνεστενάχιζ᾽ <persName n="urn:cite:hmt:pers.pers22">ἀγαμέμνων</persName></l>
+        <l n="10">νειόθεν ἐκ κραδίης. τρομέοντο δέ οἱ φρένες ἐντός</l>
+        <l n="11">ἤτοι ὅτ᾽ ἐς πεδίον τὸ <placeName n="urn:cite:hmt:place.place15">τρωϊκὸν</placeName> ἀθρήσειεν.</l>
+        <l n="12">θαύμαζεν πυρὰ πολλὰ. τὰ καίετο <placeName n="urn:cite:hmt:place.place6">ϊλιόθι</placeName> πρὸ.</l>
         <l n="13">αὐλῶν. συρίγγων τ᾽ ἐνοπὴν. ὅμαδόν τ᾽ ἀνθρώπων·</l>
-        <l n="14">αὐτὰρ ὅτ᾽ ἐς νῆάς τε ἴδοι καὶ λαὸν<placeName n="urn:cite:hmt:place.place96">Ἀχαιῶν</placeName> </l>
-        <l n="15">πολλὰς ἐκ κεφαλῆς προθελύμνους ἕλκετο χαίτας</l>
-        <l n="16">ὑψόθ᾽ ἐόντι <persName n="urn:cite:hmt:pers.pers8">Διί</persName>, μέγα δ᾽ ἔστενε κυδάλιμον κῆρ·</l>
+        <l n="14">αὐτὰρ ὅτ᾽ ἐς νῆάς τε ἴδοι καὶ λαὸν<placeName n="urn:cite:hmt:place.place96">ἀχαιῶν</placeName> </l>
+        <l n="15">πολλὰς ἐκ κεφαλῆς προθελύμνους ἕλκετο χαίτᾱς</l>
+        <l n="16">ὑψόθ᾽ ἐόντι <persName n="urn:cite:hmt:pers.pers8">διῒ</persName>· μέγα δ᾽ ἔστενε κυδάλιμον κῆρ·</l>
         <l n="17">ἧδε δέ οἱ κατὰ θυμὸν ἀρίστη φαίνετο βουλή·</l>
-        <l n="18"><persName n="urn:cite:hmt:pers.pers117">Νέστορ᾽</persName> ἐπὶ πρῶτον <persName n="urn:cite:hmt:pers.pers204">Νηλήϊον</persName> ἐλθέμεν ἀνδρῶν,</l>
+        <l n="18"><persName n="urn:cite:hmt:pers.pers117">νέστορ᾽</persName> ἐπὶ πρῶτον <persName n="urn:cite:hmt:pers.pers204">νηλήϊον</persName> ἐλθέμεν ἀνδρῶν.</l>
         <l n="19">εἴ τινά οἱ σὺν μῆτιν ἀμύμονα τεκτήναιτο.</l>
-        <l n="20">ἥ τις ἀλεξίκακος πᾶσιν <rs n="urn:cite:hmt:pers.pers66" type="ethnic"> Δαναοῖσι </rs> γένοιτο·</l>
+        <l n="20">ἥ τις ἀλεξίκακος πᾶσιν <rs n="urn:cite:hmt:pers.pers66" type="ethnic"> δαναοῖσι </rs> γένοιτο·</l>
         <l n="21">ὀρθωθεὶς δ᾽ ἔνδυνε περι στήθεσσι χιτῶνα·</l>
         <l n="22">ποσσὶ δ᾽ ὑπὸ λιπαροῖσιν ἐδήσατο καλὰ πέδῑλα·</l>
         <l n="23">ἀμφι δ᾽ ἔπειτα δαφοινὸν ἑέσσατο δέρμα λέοντος</l>
-        <l n="24">αἴθωνος, μεγάλοιο, ποδηνεκὲς, εἵλετο δ᾽ ἔγχος·</l>
-        <l n="25">ὡς δ᾽ αύτως <persName n="urn:cite:hmt:pers.pers119">Μενέλᾱον</persName> ἔχε τρόμος. οὐδὲ γὰρ αὐτῷ</l>
+        <l n="24">αἴθωνος, μεγάλοιο. ποδηνεκὲς. εἵλετο δ᾽ ἔγχος·</l>
+        <l n="25">ὡς δ᾽ αὔτως <persName n="urn:cite:hmt:pers.pers119">μενέλᾱον</persName> ἔχε τρόμος. οὐδὲ γὰρ αὖτῷ</l>
         <l n="26">ὕπνος ἐπὶ βλεφάροισιν ἐφίζανε· μή τι πάθοιεν</l>
         <l n="27">Ἀργεῖοι, τοὶ δὴ ἕθεν εἵνεκα πουλὺν ἐφ᾽ ὑγρὴν</l>
         <l n="28">ἤλυθον ἐς Τροίην πόλεμον θρασὺν ὁρμαίνοντες.</l>
