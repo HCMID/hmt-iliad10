@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<indexInventory
+    xmlns="http://chs.harvard.edu/xmlns/cite">
+    <rdfNamespace
+        abbr="cite"
+        fullValue="http://www.homermultitext.org/cite/rdf/"/>
+    <rdfNamespace
+        abbr="hmt"
+        fullValue="http://www.homermultitext.org/hmt/rdf/"/>
+        
+      
+
+    <index
+        inverse="cite:illustrates"
+        verb="cite:illustratedBy">
+        <source
+            type="file"
+            value="u-1-1-scholiaToImage.csv"/>
+    </index>
+    
+    
+ 
+</indexInventory>
