@@ -18,6 +18,13 @@
             value="u-1-1-scholiaToImage.csv"/>
     </index>
     
+    <index
+        inverse="cite:illustrates"
+        verb="cite:illustratedBy">
+        <source
+            type="file"
+            value="u-1-1-markersToImage.csv"/>
+    </index>
     
  
 </indexInventory>
