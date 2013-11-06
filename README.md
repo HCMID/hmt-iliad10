@@ -1,6 +1,6 @@
 #hmt-iliad10#
 
-Archival repossitory for Homer Multitext project, editing work on *Iliad* 10.
+Archival repository for Homer Multitext project, editing work on *Iliad* 10.
 
 
 ## License ##
