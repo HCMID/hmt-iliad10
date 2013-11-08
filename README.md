@@ -2,6 +2,11 @@
 
 Archival repository for Homer Multitext project, editing work on *Iliad* 10.
 
+Team members should pay attention to (and help keep up to date) the notes and links in
+[the project wiki][wiki].
+
+[wiki]: https://github.com/neelsmith/hmt-iliad10/wiki
+
 
 ## License ##
 
