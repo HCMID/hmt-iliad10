@@ -23,7 +23,7 @@
                         <body>
                               <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.1" type="scholion">
                                     <div type="lemma">
-                                          <p>LEMMA TEXT</p>
+                                          <p></p>
                                     </div>
                                     <div type="ref">
                                           <p>urn:cts:greekLit:tlg0012.tlg001.msA:10</p>
@@ -31,11 +31,11 @@
                                     <div type="comment">
                                           <p>αὔτη ἡ ραψωδία, ἐπι γράφεται <title>νυκτεγερσία</title>, 
                                                 ἐπαναστάντας
-                                                τοὺς πρώτους τῶν ἑλλνων κατασκόπους πέμψαι γνώμηι
+                                                τοὺς πρώτους τῶν ἑλλνην κατασκόπους πέμψαι γνώμνῃ
                                                   <persName n="urn:cite:hmt:pers.pers117"
                                                   >νέστορος</persName>
                                                 <persName n="urn:cite:hmt:pers.pers215"
-                                                  >διομήδη</persName> καὶ<persName
+                                                  >διομήδη</persName> καὶ <persName
                                                   n="urn:cite:hmt:pers.pers118">ὀδυσσέα</persName>
                                           </p>
                                     </div>
