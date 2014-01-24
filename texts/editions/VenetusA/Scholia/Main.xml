@@ -31,29 +31,38 @@
                                     <div type="comment">
                                           <p>αὔτη ἡ ραψωδία, ἐπι γράφεται <title>νυκτεγερσία</title>, 
                                                 ἐπαναστάντας
+<<<<<<< HEAD
                                                 τοὺς πρώτους τῶν ἑλλνην κατασκόπους πέμψαι γνώμνῃ
                                                   <persName n="urn:cite:hmt:pers.pers117"
                                                   >νέστορος</persName>
                                                 <persName n="urn:cite:hmt:pers.pers215"
                                                   >διομήδη</persName> καὶ <persName
                                                   n="urn:cite:hmt:pers.pers118">ὀδυσσέα</persName>
+=======
+                                                τοὺς πρώτους τῶν ἑλλην' κατασκόπους πέμψαι γνώμῃ
+                                                  <persName n="urn:cite:hmt:pers.pers117"
+                                                  >νέστορος</persName>
+                                                <persName n="urn:cite:hmt:pers.pers215"
+                                                  >διομήδη</persName> καὶ<persName
+                                                      n="urn:cite:hmt:pers.pers118">ὀδυσσέα</persName>⁑
+>>>>>>> 21324facff033faaa9b9493b237c7ed49ae8ab6c
                                           </p>
                                     </div>
                               </div>
                               <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.2" type="scholion">
                                     <div type="lemma">
-                                          <p>ἄλλοι μὲν παρὰ νηυσὶν ἀριστῆες Παναχαιῶν</p>
+                                          <p>ἄλλοι μὲν παρὰ νηυσὶν ἀριστῆες <rs type="ethnic" n="place96">παναχαιῶν</rs></p>
                                     </div>
                                     <div type="ref">
                                           <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.1</p>
                                     </div>
                                     <div type="comment">
-                                          <p>εἰκότως ἀμφότερα γὰρ ὕπνου ἀγωγά καὶ ὁ ἐκ τῆς μάχης
-                                                κάματος καὶ ἡ επι τῆ ἥττῃ δυσθυμία. παρὰ νηυσὶ δὲ
+                                          <p>εἰκότως ἀμφότερα γὰρ ὕπνου ἀγωγὰ καὶ ὁ ἐκ τῆς μάχης
+                                                κάματος καὶ ἡ επι τῆ ἥτγη δυσθυμία. παρα νηυσὶ δὲ
                                                 λέγει. ἐπεὶ οἱ φύλακες ἐκτὸς τῶν νεῶν ῆσαν οἶς τὸ
-                                                ἐγρηγορέναι ἀναγκαῖον. οὔτε δὲ οἱ ἀριστεῖς δι όλης
+                                                εγρηγορέναι ἀναγκαῖον οὔτε δὲ οἱ ἀριστεῖς δι όλης
                                                 τῆς νυκτος ἐκάθευδον. ἀλλ <persName
-                                                  n="urn:cite:hmt:pers.pers17">ὄμηρος</persName> τὸ
+                                                  n="urn:cite:hmt:pers.pers17">ὅμηρος</persName> τὸ
                                                 παννύχιοι καὶ <cit>
                                                   <q type="ref"
                                                   n="urn:cts:greekLit:tlg0012.tlg001.msA:1.472"
@@ -63,19 +72,19 @@
                                                   n="urn:cts:greekLit:tlg0012.tlg001.msA:23.105-23.106"
                                                   >παννυχίη γάρ μοι <persName
                                                   n="urn:cite:hmt:pers.pers158"
-                                                  >πατροκλῆος</persName> δειλοῖο ψυχὴ ἐφεστήκει</q>
+                                                  >πατροκλῆος</persName> δειλοῖο ψυχὴ ἐφευτήκει</q>
                                                 </cit>. <cit>
                                                   <q type="ref"
                                                   n="urn:cts:greekLit:tlg0012.tlg001.msA:7.476"
-                                                  >παννύχιοι μεν ἔπειτα καρηκομόωντες ἀχαιοί</q>
+                                                  >παννύχιοι μεν ἕπειτα καρηκομόωντες ἀχαιοί</q>
                                                 </cit>· <cit>
                                                   <q type="ref"
                                                   n="urn:cts:greekLit:tlg0012.tlg001.msA:1.472">οἱ
-                                                  δὲ πανημέριοι μολπῆι <choice>
+                                                  δὲ πανημέριοι μολπῇ <choice>
                                                   <abbr>θν</abbr>
                                                   <expan>θεὸν</expan>
                                                   </choice>ἱλάσκοντο</q>
-                                                </cit></p>
+                                                </cit>⁑</p>
                                     </div>
                               </div>
 
