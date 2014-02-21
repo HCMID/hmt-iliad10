@@ -181,115 +181,97 @@ style simple scholia" alternate="no"?>
                         ὑπακούσωσιν οἱ λοιποί ⁑</p>
                   </div>
                </div>
-               <div n="8.12" type="scholion">
+               <div n="10.12" type="scholion">
                   <div type="marker">
-                     <p><num value="20">Κ</num></p>
+                     <p><num value="10">Ι</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.12</p>
+                     <p>10.12</p>
                   </div>
                   <div type="comment">
-                     <p>ἄμεινον ὑποστίζειν εἰς τὸ πληγείς· καὶ ἔστιν ἀντὶ τοῦ κεραυνωθείς· διδάσκει
-                        δὲ ὡς οἱ παραβαίνοντες τὰ τῶν ἀρχόντων θεσπίσματα κολαστέοι εἰσίν⁑</p>
+                     <p>λίαν φονευτικὸν. τινὲς δὲ πυρρόν⁑</p>
                   </div>
                </div>
-               <div n="8.13" type="scholion">
+               <div n="10.13" type="scholion">
                   <div type="marker">
-                     <p><num value="21">ΚΑ</num></p>
+                     <p><num value="11">ΙΑ</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.13</p>
+                     <p>10.13</p>
                   </div>
                   <div type="comment">
-                     <p>ἐναντίος <placeName n="place45">Ὀλύμπῳ</placeName> ὁ <placeName n="place60"
-                           >Τάρταρος</placeName>· ὁ μὲ`ν γὰρ. <cit>
-                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:6.43</ref>
-                           <q>οὔποτ' ἀνέμοισι τινάσσεται· οὐδέ ποτ' ὄμβρῳ</q>
-                        </cit>· οὗτος δὲ τετάρακται· καὶ ψυχρὸς εἶναι δοκεῖ· ὅθεν καὶ τὸ σφόδρα
-                        ῥιγοῦν ταρταρίζειν φασίν· καὶ ὁ μὲ`ν ὅλος καταλάμπεται“ ὁ δὲ` καὶ ἠεροειδής
-                        ἐστιν⁑</p>
+                     <p>τινὲς ἐκ τούτου χειμέριον φασι τὸν καιρόν· σκέπη γὰρ ὅπλων ἦν ἡ λεοντή· τὸν
+                        δὲ <persName n="pers119"><choice>
+                              <abbr>μενέλα</abbr>
+                              <expan>μενέλαον</expan>
+                           </choice></persName> ὡς ἥτ τω, πάρδαλιν ἐνδύει· δόλωνα δὲ ὡς δειλὸν καὶ
+                        ἐπὶ λαθρίδιον πρᾶξιν ὁρμῶντα, λύκον⁑</p>
                   </div>
                </div>
-               <div n="8.14" type="scholion">
+               <div n="10.14" type="scholion">
                   <div type="marker">
-                     <p><num value="22">ΚΒ</num></p>
+                     <p><num value="12">ΙΒ</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.14</p>
+                     <p>10.14</p>
                   </div>
                   <div type="comment">
-                     <p>οἱ <rs type="ethnic" n="place76">Ἀττικοὶ</rs> βάραθρον αὐτὸ φασιν· πῶς δὲ
-                        δύναταί τις ἐκεῖσε κατελθεῖν· φαμὲν δὲ ὅτι οἱ ἀπειλοῦντες. τὰ ἀδύνατα σχεδὸν
-                        ἀπειλοῦσι πρὸς κατάπληξιν⁑</p>
+                     <p>κατὰ τὸν αὐτὸν καιρὸν τῷ <persName n="pers22">ἀγαμέμνονι</persName>· ἀλλ' ὁ
+                        ποιητὴς τῷ βασιλικωτέρῳ προσώπῳ ἀπένειμε τὴν προτέραν τάξιν τοῦ λόγου· ὥστε
+                        καὶ τῶν ἀριστέων· οὓς μὲν διήγειρεν <persName n="pers22"
+                           >Ἀγαμέμνων</persName>, ἀκριβῶς διεξέρχεται· οὓς δὲ <persName n="pers119"><choice>
+                              <abbr>μενέλα</abbr>
+                              <expan>μενελάου</expan>
+                           </choice></persName>, ἐπὶ κεφαλαίου⁑</p>
                   </div>
                </div>
-               <div n="8.15" type="scholion">
+               <div n="10.15" type="scholion">
                   <div type="marker">
-                     <p><num value="23">ΚΓ</num></p>
+                     <p><num value="13">ΙΓ</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.15</p>
+                     <p>10.15</p>
                   </div>
                   <div type="comment">
-                     <p>κολαστήριον γάρ ἐστι φυλάσσων τοὺς δεσμώτας· καὶ <cit>
-                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:13.415</ref>
-                           <q>πυλάρταο <w>κ<unclear>ρ</unclear>ατεροῖο</w></q>
-                        </cit>· φοβερὰν δὲ δείκνυσι τὴν ἄνοδον διὰ τούτου⁑</p>
+                     <p>τὸ μὲν ζῷον <rs type="waw">πόρδαλις</rs>. ἡ δὲ δορὰ <rs type="waw"
+                           >παρδαλέη</rs>⁑</p>
                   </div>
                </div>
-               <div n="8.16" type="scholion">
+               <div n="10.16" type="scholion">
                   <div type="marker">
-                     <p><num value="24">ΚΔ</num></p>
+                     <p><num value="14">ΙΔ</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.16</p>
+                     <p>10.16</p>
                   </div>
                   <div type="comment">
-                     <p>τὰ <choice>
-                           <abbr>οὐνια</abbr>
-                           <expan>οὐράνια</expan>
-                        </choice> ὥς φησι τρία διαστήματα ἔχει· ἀέρα μέχρι νεφελῶν· εἶτα αἰθέρα
-                        μέχρι τῶν φαινομένων· καὶ τῆς <persName n="pers8">Διὸς</persName> ἀρχῆς·
-                        οὕτω καὶ ἀπὸ τῆς γῆς εἰς <placeName n="place67">Ἅδου</placeName>, ἀπὸ δὲ
-                           <placeName n="place67">Ἅδου</placeName> εἰς τὸν <placeName n="place60"
-                           >Τάρταρον</placeName>· δῆλον δὲ ὡς τὸ μέσον κέντρον ἲν ἡ γῆ· ἔδει δὲ
-                        εἰπεῖν τόσσον ἔνερθε γῆς. ὅσον ἀπ' αὐτῆς εἰς <choice>
-                           <abbr>οὐνόν</abbr>
-                           <expan>οὐρανόν</expan>
-                        </choice>· τάχα οὖν τὸ <placeName n="place67">Ἀΐδεω</placeName> ἀπὸ τῆς
-                        ἀρχῆς τοῦ <persName n="pers201">Ἅδου</persName> φησίν⁑</p>
+                     <p>διὰ τάχους ἀνέφηνε τὸ ἀξίωμα καὶ τοὺς ἀρχομένους· ὅπως πρὸς τοὺς ἄρχοντας
+                        διακεῖσθαι δέον· καὶ τοὺς ἄρχοντας ὁποίους ὀφείλουσιν ἑαυτούς παρέχειν τοῖς
+                        ἀρχομένοις· ἵνα ὡς θεοὶ τιμῶνται· δῆλον δὲ ὡς προεταράχθη <persName
+                           n="pers119">μενέλαος</persName>· ὁ δὲ ποιητὴς καταπλῆξαι ἠθέλησε. διὰ τοῦ
+                        βασιλικωτέρου προσώπου⁑</p>
                   </div>
                </div>
-               <div n="8.17" type="scholion">
+               <div n="10.17" type="scholion">
                   <div type="marker">
-                     <p><num value="25">ΚΕ</num></p>
+                     <p><num value="15">ΙΕ</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.18</p>
+                     <p>10.17</p>
                   </div>
                   <div type="comment">
-                     <p>τῶ ἀποτόμως <note resp="Erbse">Nic.</note> ἀπειλοῦντι. καὶ <add
-                           place="supralinear">τὴν</add> ῥώμην οὐκ ἄτοπον <w>ἐνδείκν<supplied
-                              resp="Erbse">υσθ</supplied>αι</w>· εἰ βούλεσθε φησι τὴν διαφορὰν
-                        γνῶναι. πειράθητε· μεγάλα δὲ ὄντα τὰ προστάγματα. μείζοσιν
-                              <w>ὑπερβ<unclear>ο</unclear>λαῖς</w>
-                        <w>ἐπι<unclear>στ</unclear>ώσατο</w>· τοῦτον δὲ καὶ τὸν ἑξῆς συνάπτει
-                           <persName n="pers76">Νικάνωρ</persName>
-                        <note resp="Erbse">p.193 Frdl.</note>· εἰς δὲ τὸ <cit>
-                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.19</ref>
-                           <q>κρεμάσαντες</q>
-                        </cit> τελείαν τίθησιν⁑</p>
+                     <p> ἀντὶ τοῦ νηός· εἰ δὲ ἄλλων ἐδεῖτο. πόσω μᾶλλον ἀδελφοῦ⁑</p>
                   </div>
                </div>
-               <div n="8.18" type="scholion">
+               <div n="10.18" type="scholion">
                   <div type="marker">
-                     <p><num value="26">ΚϚ</num></p>
+                     <p><num value="16">ΙϜ</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.20</p>
+                     <p>10.18</p>
                   </div>
                   <div type="comment">
-                     <p> ταῦτα φησι δεικνὺς ὡς οὐ καθ' ἕνα· συλλήβδην δὲ πάντων κρείττων ἐστίν⁑</p>
+                     <p> ὡς κατεπτηχότος τοῦ βασιλέως· ἢ ὅτι ἐνδιδυσκόμενον αὐτὸν εὗρεν· ὅθεν καὶ ἐξ αὐτοῦ ἄρχεται⁑</p>
                   </div>
                </div>
                <div n="8.20" type="scholion">
