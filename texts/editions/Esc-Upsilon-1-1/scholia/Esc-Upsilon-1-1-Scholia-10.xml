@@ -271,59 +271,49 @@ style simple scholia" alternate="no"?>
                      <p>10.18</p>
                   </div>
                   <div type="comment">
-                     <p> ὡς κατεπτηχότος τοῦ βασιλέως· ἢ ὅτι ἐνδιδυσκόμενον αὐτὸν εὗρεν· ὅθεν καὶ ἐξ αὐτοῦ ἄρχεται⁑</p>
+                     <p> ὡς κατεπτηχότος τοῦ βασιλέως· ἢ ὅτι ἐνδιδυσκόμενον αὐτὸν εὗρεν· ὅθεν καὶ ἐξ
+                        αὐτοῦ ἄρχεται⁑</p>
                   </div>
                </div>
-               <div n="8.20" type="scholion">
+               <div n="10.19" type="scholion">
                   <div type="marker">
-                     <p><num value="1">Α</num></p>
+                     <p><num value="17">ιζ</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.22</p>
+                     <p>10.19</p>
                   </div>
                   <div type="comment">
-                     <p>δείκνυσιν οἷς δεῖ κοσμεῖσθαι τὸν ἄρχοντα· ῥώμῃ καὶ συνέσει⁑</p>
+                     <p>προὔλαβε τὴν <persName n="pers117">Νέστορος</persName> γνώμην τὴν περὶ τοῦ
+                        δεῖν κατασκόπους πέμπειν· τοῦ καιροῦ αὐτῷ τὴν ἐπίνοιαν τοῦ ἔργου
+                        ἐποβάλλοντος· καὶ τὸν ἀδελφὸν ὁπλιζόμενον ὁρῶν. καὶ αὐτὸν τοῦτο βουλεύεσθαι
+                        ὑπονόεῖ⁑</p>
                   </div>
                </div>
-               <div n="8.21" type="scholion">
+               <div n="10.20" type="scholion">
                   <div type="marker">
-                     <p><num value="2">Β</num></p>
+                     <p><num value="18">ιη</num></p>
                   </div>
                   <div type="ref">
-                     <p>8.24</p>
+                     <p>10.20</p>
                   </div>
                   <div type="comment">
-                     <p>λείπει ἡ <rs type="waw">συν</rs> ὡς τὸ <cit>
-                           <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:9.542</ref>
-                           <q>αὐτῇσι ῥίζῃσι</q>
-                        </cit>· πιθανῶς δὲ οὐ μόνους εἶπεν ἀνασπάσειν θεοὺς· ἀλλὰ καὶ τὸν περιέχοντα
-                        αὐτοὺς τόπον τὸν <placeName n="place45">Ὄλυμπον</placeName>⁑</p>
+                     <p>ὡς ἤδη δεδειγμένης τῆς βουλῆς. ἐπιλογισμὸν εἰσάγει· εἰς κίνησις δὲ τὸν
+                        ἀκροατὴν εἰςάγει διὰ τὸ δυσχερὲς⁑</p>
                   </div>
                </div>
-               <div n="8.22" type="scholion">
+               <div n="10.21" type="scholion">
                   <div type="marker">
-                     <p><num value="3">Β</num><note resp="HMT">We would expect to see gamma, but
-                           there is a second beta, and the corresponding numbers in the lines do not
-                           repeat the beta, but go on to gamma</note></p>
+                     <p><num value="19"><unclear>ιθ</unclear></num></p>
                   </div>
                   <div type="ref">
-                     <p>8.25</p>
+                     <p>10.21</p>
                   </div>
                   <div type="comment">
-                     <p>ἵνα αὐτὸ δεσμεύσας, καὶ τὰ λοιπὰ ἐπάρῃ· συνερριζωμένης αὐτῷ μὲν τῆς γῆς τῇ
-                        δὲ γῇ τῆς θαλάττης ⁑</p>
-                  </div>
-               </div>
-               <div n="8.23" type="scholion">
-                  <div type="marker">
-                     <p><num value="4">Δ</num></p>
-                  </div>
-                  <div type="ref">
-                     <p>8.27</p>
-                  </div>
-                  <div type="comment">
-                     <p>ἔδει μὲν τὸ ἀσθενέστερον προτάξαι·ἀλλ’ ἢ τὸ μέτρον αἴτιον ἐγένετό. ἢ τοὺς
-                        θεούς εὐτελίζων τοῦ το φησιν ⁑</p>
+                     <p>σεμνὸν τὸ τοῦ βασιλέως εἰς ἐπίσκεψιν πλείονα φερομένου· ἅμα δὲ καὶ ὁ ποιητὴς
+                        ἀναρτᾷ τὸν ἀκροατήν· τὸ δὲ <rs type="waw">χρεὼ</rs>, οἱ μενὸν ἀντὶ τοῦ <rs
+                           type="waw">χρεία</rs> λέγουσιν· οἱ <rs type="waw">δεὸν</rs> ἀντὶ τοῦ <rs
+                           type="waw">δεῖ</rs>· οἷον δεῖ ἐμὲ καὶ σὲ βουλῆς· ἤτοι περὶ βουλῆς
+                        διανοεῖσθαι ἀρίστης⁑</p>
                   </div>
                </div>
                <div n="8.24" type="scholion">
