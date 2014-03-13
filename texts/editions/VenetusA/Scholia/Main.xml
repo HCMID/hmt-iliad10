@@ -171,43 +171,43 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.8</p>
                         </div>
                         <div type="comment">
-                            <p>ἥτοι μεταφορικῶς τὴν ἀρχὴν τοῦ πολέμον. ἡ περιφραστικῶς ὅλον ἀυτον.
+                            <p>ἥτοι μεταφορικῶς τὴν ἀρχὴν τοῦ πολέμου. ἡ περιφραστικῶς ὅλον ἀυτον.
                                 δι ὅτι πάντων δαπανητικός⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.9" type="scholion">
                         <div type="lemma">
-                            <p>νειόθεν ἐκ κραδίης</p>
+                            <p>νειόθεν ἐκ κραδίης,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.10</p>
                         </div>
                         <div type="comment">
-                            <p> εκ τῶν εσωτατῶν λογισων. ἔνδον γὰρ ἐν τοῖς <choice>
+                            <p> εκ τῶν εσωτατῶν λογισμων. ἔνδον γὰρ ἐν τοῖς <choice>
                                     <abbr>επιλογμ</abbr>
                                     <expan>επιλογισμοῖς</expan>
                                 </choice> τα δεινα ορῶν καθεαυτων στένει. ἐντευθεν κινηθεὶς
                                     <persName>Φιλότιμος</persName>, ἐν καρδίᾳ τὸ ἡγεμονικoν ἔθετο·
-                                ὅθεν γαρ τὸ χαίρειν και τὸ λυπεῖσθαι τὰς ἀρχας ἔχει. δῆλον οτι ὁ
-                                νοῦς ἐκεῖθεν ἤρτηται. </p>
+                                ὅθεν γαρ τὸ χαίρειν καὶ τὸ λυπεῖσθαι τὰς ἀρχας ἔχει. δῆλον ὅτι ὁ
+                                νοῦς ἐκεῖθεν ήρτηται⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.10" type="scholion">
                         <div type="lemma">
-                            <p>τρομέοντο</p>
+                            <p>τρομέοντο:</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.10</p>
                         </div>
                         <div type="comment">
-                            <p> οτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName>
+                            <p> ὅτι <persName n="urn:cite:hmt:pers.pers15">ζηνόδοτος</persName>
                                 γράφει <cit>
                                     <q type="ref" n="Zenodotus">φοβέοντο</q>
                                 </cit>· τὸν δὲ φόβον εἴωθε λέγειν <persName
                                     n="urn:cite:hmt:pers.pers17">ὅμηρος</persName> τὴν μετα φυγης
-                                δειλίασιν· ἐλέγχεται δε ὁ <persName n="urn:cite:hmt:pers.pers15"
+                                δειλίασιν· ἐλέγχεται δὲ ὁ <persName n="urn:cite:hmt:pers.pers15"
                                     >ζηνόδοτος</persName> ἁμαρτάνων ἐκ τοῦ <cit>
-                                    <q type="ref" n="Zenodotus">ὡς δ' αὔτως μενέλαον ἔχε τρόμος</q>
+                                        <q type="ref" n="Zenodotus">ὡς δ' αὔτως μενέλαον ἔχε τρόμος⁑</q>
                                 </cit></p>
                         </div>
                     </div>
@@ -223,42 +223,42 @@
                         </div>
                         <div type="comment">
                             <p>πῶς φησὶν <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνων</persName>
-                                ἐντὸς τοῦ τείχους ὑπάρχον ἐθαυμαζεν τας πυρας την ἀρχην μὴδε βλέπων
-                                ἀυτας, δια τοῦ τείχους. καὶ ρητεον ὅτι ὡς βασιλεὺς ὑψηλοτάτην εἶχε
-                                σκηνὴν ἵν ευχερῶς θεωρεῖν δύναται πάντα </p>
+                                ἐντὸς τοῦ τείχους ὑπάρχων ἐθαυμαζεν τας πυρας την ἀρχην μὴ δὲ βλέπων
+                                ἀυτας, δια τοῦ τείχους. καὶ ῥητεον ὅτι ὡς βασιλεὺς ὑψηλοτάτην εἶχε
+                                σκηνὴν ἵν ευχερῶς θεωρεῖν δύναται πάντα⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.12" type="scholion">
                         <div type="lemma">
-                            <p>αὐλὼν συρίγγων τ' ἐνοπὴν</p>
+                            <p>αὐλὼν συρίγγων τ' ἐνοπὴν,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.13</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι ἐνθάδε καὶ ἐπι τῆς <persName
-                                    n="urn:cite:hmt:pers.pers(WHAT NAME CODE??)">
-                                    ὁπλοποιϊας</persName> τῶν αὐλῶν μέμνηται. <cit>
+                            <p> ὅτι ἐνθάδε καὶ ἐπι τῆς <title type="ref"
+                                n="urn:cts:greekLit:tlg0012.tlg001.msA:18">
+                                    ὁπλοποιϊας</title> τῶν αὐλῶν μέμνηται. <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:18.495"
                                         >αὐλοὶ φόρμιγγές τε βοῶν</q>
-                                </cit> δεῖ δὲ καὶ τὸ ἀκούων προσ ὑπακούειν ἔξωθεν <choice>
+                                    </cit>. δεῖ δὲ καὶ τὸ ἀκούων προσ <w>ὑπακ<unclear>ού</unclear>ειν</w> ἔξωθεν <choice>
                                     <abbr>βραχ</abbr>
-                                    <expan>βράχος</expan>
+                                    <expan>βράχυ</expan>
                                 </choice> δὲ διασταλτέον μετὰ τὸ αὐλῶν ἐνοπήν, ἐσημειώσατο δὲ δια
                                 τοῦ ἤχου ὅτι παρα τοῖς βαρβάροις ἐγινώσκετο
-                                    <w>τ<unclear>ὸ</unclear></w> ὄργανα ταῦτα</p>
+                                <w>τ<unclear>ὸ</unclear></w> ὄργανα ταῦτα⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.13" type="scholion">
                         <div type="lemma">
-                            <p>ἤδε δέ οἱ κατὰ θυμὸν</p>
+                            <p>ἥδε δέ οἱ <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> θυμὸν,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.17</p>
                         </div>
                         <div type="comment">
                             <p>τὸ <note type="correction">προνοητικὸν</note> αὐτοῦ καὶ ἐν ταῖς
-                                συμφοραῖς δηλοῦται μη ἀποφάσκοντος τοῖς δεινοῖς.</p>
+                                συμφοραῖς δηλοῦται μη ἀποφάσκοντος τοῖς δεινοῖς⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.14" type="scholion">
