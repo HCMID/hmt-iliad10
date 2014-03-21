@@ -251,32 +251,32 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.13" type="scholion">
                         <div type="lemma">
-                            <p>ἥδε δέ οἱ <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> θυμὸν,</p>
+                            <p>ἦδε δέ οἱ <choice><abbr>κατ</abbr><expan>κατὰ</expan></choice> θυμὸν,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.17</p>
                         </div>
                         <div type="comment">
-                            <p>τὸ <note type="correction">προνοητικὸν</note> αὐτοῦ καὶ ἐν ταῖς
-                                συμφοραῖς δηλοῦται μη ἀποφάσκοντος τοῖς δεινοῖς⁑</p>
+                            <p>τὸ <note type="correction">προνοητικον</note> αὐτου καὶ ἐν ταῖς
+                                συμφοραῖς δηλοῦται μη ἀποφάσκοντος τοις δεινοις⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.14" type="scholion">
                         <div type="lemma">
                             <p><persName n="urn:cite:hmt:pers.pers117">νέστορ'</persName>
-                                <note type="correction">ἐπὶ</note> πρῶτον</p>
+                                <note type="correction">ἐπὶ</note> πρῶτον,</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.18</p>
                         </div>
                         <div type="comment">
                             <p>ὅτι καὶ ἐν τοῖς κακοῖς δεῖ καταφεύγειν εἰς σοφίαν· <persName
-                                    n="urn:cite:hmt:pers.pers169">παμφιλος</persName> δε τὴν ἐπί
+                                    n="urn:cite:hmt:pers.pers169">παμφιλος</persName> δὲ τὴν ἐπὶ
                                 αναστρέφει· <supplied reason="lost"><unclear><choice>
                                             <abbr>πιθαντρ</abbr>
                                             <expan>πιθανώτερον</expan>
                                         </choice></unclear></supplied>δέ ἐστι τὸ
-                                    <unclear>ἀκόλουθον</unclear> φυλάττοντας <choice>
+                                    <w>ἀκόλου<add type="supralinear">θ</add></w> φυλάττοντας <choice>
                                     <abbr>ανγινκειν</abbr>
                                     <expan>ἀναγινώσκειν</expan>
                                 </choice>. ἐπὶ <choice>
