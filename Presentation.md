@@ -6,6 +6,7 @@
 
 
 ---
+
 # Venetus A #
 - 10th Century Byzantine Iliadic Manuscript 
 - Housed in Venice
@@ -13,10 +14,31 @@
 
 ---
 
+# Scholia in Venetus A #
+- Main
+- Interior
+- Exterior
+- Intermarginal
+- Interlinear
+
+---
+
 # Upsilon 1.1 #
 - 11th Century Byzantine Iliadic Manuscript
 - Housed in Escorial Monastery in Spain
 - Another valuable manuscript full of scholia
+
+---
+#Scholia in Upsilon 1.1
+- Main scholia
+- Secondary hand
+- 
+# Secondary Hand in Upsilon 1.1 #
+
+- Written X years after manuscript published
+- Contains much of the same material as Venetus A
+- Thought to have been written by .. 
+
 
 ---
 
@@ -51,11 +73,9 @@ Example 2:
 
 ---
 
-# Secondary Hand in Upsilon 1.1 #
-
-- Written X years after manuscript published
-- Contains much of the same material as Venetus A
-- Thought to have been written by .. 
+νυκτεγερσία
+http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.754,0.6201,0.076,0.021
+http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.155,0.0833,0.298,0.0255
 
 ---
 
