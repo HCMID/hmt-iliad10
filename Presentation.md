@@ -1,36 +1,62 @@
 # Homer Multitext Project #
+
+
+
 ## Multitextual Editing and Reading ##
+
+
 ---
 # Venetus A #
 - 10th Century Byzantine Iliadic Manuscript 
 - Housed in Venice
 - Valued for its distinct scholia
+
 ---
+
 # Upsilon 1.1 #
 - 11th Century Byzantine Iliadic Manuscript
 - Housed in Escorial Monastery in Spain
 - Another valuable manuscript full of scholia
+
 ---
+
 # Total Editing Process #
 - Bifolio images
 - Main Iliadic text
 - Scholia
+
 ---
+
 # Examples of Observations #
+
 ## Duplicate Content in Venetus A ##
-..* [Main scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.127,0.7082,0.687,0.0495)
-..* [Interior scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.106,0.4359,0.073,0.0405)
-..* [Intermarginal scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.563,0.5499,0.05,0.0458)
-..* [Main scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.146,0.7689,0.669,0.0255)
+
+Example 1:
+
+- [Main scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.127,0.7082,0.687,0.0495)
+- [Interior scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.106,0.4359,0.073,0.0405)
+
+
+Example 2:
+- [Intermarginal scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.563,0.5499,0.05,0.0458)
+- [Main scholion](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.146,0.7689,0.669,0.0255)
+
 ---
+
 #Further Examples #
+
 ## Duplicate Content Between Manuscripts ##
-..* [Main scholia (secondary hand) in Upsilon 1.1](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.727,0.6246,0.108,0.1502)
+
+- [Main scholia (secondary hand) in Upsilon 1.1](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.727,0.6246,0.108,0.1502)
+
 ---
+
 # Secondary Hand in Upsilon 1.1 #
+
 - Written X years after manuscript published
 - Contains much of the same material as Venetus A
 - Thought to have been written by .. 
+
 ---
 
 
@@ -48,7 +74,7 @@ and βράχυ is to be understood after the αὐλῶν and ἐνοπήν, (
 
 2) a. Intermarginal: τὸ εξῆς εστι συν αυτῷ τεκτήναιτο μῆτιν
 
-Main: εἰσὶν ἀνέγνωσιν καθ ἒν μεροσ λόγου ὡς εὔμητιν κακῶς. δύο γάρ ἐστι μέρη λόγου σὺν καὶ μῆτιν τὸ δὲ εξῆς ἐστι συντέμοισι συντεκτήναι τὸ μῆτιν⁑
+Main: εἰσὶν  οἳ ἀνέγνωσιν καθ ἒν μεροσ λόγου ὡς εὔμητιν κακῶς. δύο γάρ ἐστι μέρη λόγου σὺν καὶ μῆτιν τὸ δὲ εξῆς ἐστι συντέμοισι συντεκτήναι τὸ μῆτιν⁑
 
 
 Venetus A Abbreviation: 
