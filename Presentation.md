@@ -1,20 +1,19 @@
-# Homer Multitext Project #
+## Multitextual editing and reading: two manuscripts of the *Iliad*
+---
+
+## The Venetus A manuscript ##
 
 
-
-## Multitextual Editing and Reading ##
-
+- earliest complete manuscript of the *Iliad* (10th c.)
+- today in Venice
+- important for its distinct scholia
 
 ---
 
-# Venetus A #
-- 10th Century Byzantine Iliadic Manuscript 
-- Housed in Venice
-- Valued for its distinct scholia
+## Scholia in Venetus A ##
 
----
 
-# Scholia in Venetus A #
+
 - Main
 - Interior
 - Exterior
@@ -23,33 +22,40 @@
 
 ---
 
-# Upsilon 1.1 #
-- 11th Century Byzantine Iliadic Manuscript
-- Housed in Escorial Monastery in Spain
-- Another valuable manuscript full of scholia
+## Escorial, Upsilon 1.1 ##
 
----
-#Scholia in Upsilon 1.1
-- Main scholia
-- Secondary hand
-- 
-# Secondary Hand in Upsilon 1.1 #
-
-- Written X years after manuscript published
-- Contains much of the same material as Venetus A
-- Thought to have been written by .. 
-
+- 11th century
+- today in Escorial Monastery in Spain
+- Large-format MS with scholia, content largely distinct from Venetus A
 
 ---
 
-# Total Editing Process #
+## Scholia in Upsilon 1.1 #
+
+
+- Main scholia (contemporary with original production of MS)
+- Secondary (later) hand(s): completely unpublished
+
+---
+
+## Secondary scholia in Upsilon 1.1 ##
+
+- one or more hands (12-15th centuries?)
+- more overlap with Venetus A contents than previously suspected?
+
+---
+
+## The "Total Editing" Process ##
+
 - Bifolio images
 - Main Iliadic text
 - Scholia
 
 ---
 
-# Examples of Observations #
+## Some  multitextual readings in *Iliad* 10 ##
+
+---
 
 ## Duplicate Content in Venetus A ##
 
