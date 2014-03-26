@@ -59,9 +59,11 @@
 
 ## The "Total Editing" Process ##
 
-- Bifolio images
-- Main Iliadic text
-- Scholia
+- diplomatic digital edition
+- understanding the manuscript layout
+- main Iliadic text
+- scholia
+- citing images within the manuscripts
 
 ---
 
@@ -160,7 +162,7 @@ http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:ci
 
 
 Notes from Alex and Neil:
-1)a. Interior: βραχὺ διασταλτέον μετὰ τὸ αὐλῶν καὶ ἐνοπήν.
+1) a. Interior: βραχὺ διασταλτέον μετὰ τὸ αὐλῶν καὶ ἐνοπήν.
 
 βραχυ ("faint") is to be understood after the αὐλῶν and ἐνοπήν (sound of autos).
 
