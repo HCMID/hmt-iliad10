@@ -25,7 +25,7 @@
 ## Scholia in Venetus A ##
 
 
-
+- [Example folio](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0)
 - Main
 - Interior
 - Exterior
@@ -44,7 +44,7 @@
 
 ## Scholia in Upsilon 1.1 #
 
-
+- [Example folio](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r)
 - Main scholia (contemporary with original production of MS)
 - Secondary (later) hand(s): completely unpublished
 
