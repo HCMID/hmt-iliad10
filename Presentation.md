@@ -19,18 +19,8 @@
 - earliest complete manuscript of the *Iliad* (10th c.)
 - today in Venice
 - important for its distinct scholia
-
----
-
-## Scholia in Venetus A ##
-
-
 - [Example folio](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0)
-- Main
-- Interior
-- Exterior
-- Intermarginal
-- Interlinear
+
 
 ---
 
@@ -39,30 +29,17 @@
 - 11th century
 - today in Escorial Monastery in Spain
 - Large-format MS with scholia, content largely distinct from Venetus A
-
----
-
-## Scholia in Upsilon 1.1 #
-
 - [Example folio](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r)
-- Main scholia (contemporary with original production of MS)
-- Secondary (later) hand(s): completely unpublished
-
 ---
 
-## Secondary scholia in Upsilon 1.1 ##
 
-- one or more hands (12-15th centuries?)
-- more overlap with Venetus A contents than previously suspected?
-
----
 
 ## The "Total Editing" Process ##
 
 - diplomatic digital edition
 - understanding the manuscript layout
 - main Iliadic text
-- scholia
+- [scholia](http://beta.hpcc.uh.edu/tomcat/hmtdigital/indices?urn=urn:cite:hmt:vaimg.VA012RN-0013)
 - citing images within the manuscripts
 
 ---
@@ -141,6 +118,14 @@ Intemarginal scholion:
 ---
 
 #Further Examples #
+
+---
+## Secondary scholia in Upsilon 1.1 ##
+
+- one or more hands (12-15th centuries?)
+- more overlap with Venetus A contents than previously suspected?
+
+---
 
 ## Duplicate Content Between Manuscripts ##
 
