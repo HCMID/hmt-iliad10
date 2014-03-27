@@ -79,7 +79,41 @@ Interior scholion:
 <blockquote><span style='color: green'>βραχὺ διασταλτέον μετὰ τὸ αὐλῶν</span> <span style='color: blue'>καὶ</span> <span style='color: green'>ἐνοπήν.</span></blockquote>
 
 
+
 ---
+
+#Further Examples #
+
+---
+
+## Secondary scholia in Upsilon 1.1 ##
+
+- one or more hands (12-15th centuries?)
+- more overlap with Venetus A contents than previously suspected?
+
+---
+
+## Duplicate Content Between Manuscripts ##
+
+- [Main scholia Venetus A](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.158,0.087,0.299,0.024)
+
+- [Secondary Hand in Upsilon 1.1](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.727,0.6201,0.113,0.021)
+
+
+
+
+> ἡ παροῦσα ῥαψωδία δὲ νυκτεγερσία κα[...]
+
+---
+
+
+
+
+
+
+
+
+
 
 ## A more complex example ##
 
@@ -113,33 +147,4 @@ Intemarginal scholion:
 
 
 <blockquote> <span style='color: green'>τὸ εξῆς εστι</span> συν αυτῷ  <span style='color: blue'>τεκτήναιτο μῆτιν</span></blockquote>
-
-
----
-
-#Further Examples #
-
----
-## Secondary scholia in Upsilon 1.1 ##
-
-- one or more hands (12-15th centuries?)
-- more overlap with Venetus A contents than previously suspected?
-
----
-
-## Duplicate Content Between Manuscripts ##
-
-- [Main scholia (secondary hand) in Upsilon 1.1](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.727,0.6201,0.113,0.021)
-
----
-[νυκτεγερσία](
-http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.754,0.6201,0.076,0.021
-http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vaimg.VA126RN-0298@0.155,0.0833,0.298,0.0255)
-
-
-
-
-> ἡ παροῦσα ῥαψωδία δὲ νυκτεγερσία κα[...]
-
----
 
