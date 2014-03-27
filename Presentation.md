@@ -29,7 +29,9 @@
 - 11th century
 - today in Escorial Monastery in Spain
 - Large-format MS with scholia, content largely distinct from Venetus A
-- [Example folio](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r)
+- [Example folio](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r) 
+
+
 ---
 
 
