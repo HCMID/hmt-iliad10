@@ -144,7 +144,7 @@ Intemarginal scholion:
 
 ## Duplicate Content Between Manuscripts ##
 
-- [Main scholia (secondary hand) in Upsilon 1.1](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.727,0.6246,0.108,0.1502)
+- [Main scholia (secondary hand) in Upsilon 1.1](http://beta.hpcc.uh.edu/tomcat/hmtcite/images?request=GetIIPMooViewer&urn=urn:cite:hmt:e3bifolio.E3_123v_124r@0.727,0.6201,0.113,0.021)
 
 ---
 [νυκτεγερσία](
