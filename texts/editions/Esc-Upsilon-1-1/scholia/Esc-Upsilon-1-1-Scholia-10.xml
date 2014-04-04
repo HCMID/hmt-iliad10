@@ -316,38 +316,29 @@ style simple scholia" alternate="no"?>
                         διανοεῖσθαι ἀρίστης⁑</p>
                   </div>
                </div>
-               <div n="8.24" type="scholion">
+               <div n="10.22" type="scholion">
                   <div type="marker">
-                     <p><num value="5">Ε</num></p>
+                     <p><num value="20"><unclear>κ</unclear></num></p>
                   </div>
                   <div type="ref">
-                     <p>8.30</p>
+                     <p>10.22</p>
                   </div>
                   <div type="comment">
-                     <p>πιθανῶς οὐχ’ ἡ <persName n="pers116">Ἥρα</persName> λέγει· ἐξεκαύθη γὰρ ἂν
-                        μεγάλη ἔρις· εἰωθυίας ἀεὶ πρὸς τὸν <persName n="pers8">Δία</persName>
-                        ἀντιλέγειν· <persName n="pers67">Ἀθηνᾶ</persName> δὲ μετ’ αἰδοῦς τῷ <choice>
-                           <abbr>πρι</abbr>
-                           <expan>πατρὶ</expan>
-                        </choice> διαλέγεται μετριώτερον οὐχ’ ὡς ἡ <persName n="pers116"
-                           >Ἥρα</persName> φθεγγομένη· ἄλλως τε καὶ τοῖς προοιμίοις αὐτὸν ἐξαίρει·
-                        καὶ τὰ μὲν κελευσθέντα φησὶν ἀποπληροῦν· ὑποθήκης δὲ ἀξιοῖ μὴ φθονῆσαι· καὶ
-                        ταῦτα. οὐχ’ ἵνα αὐτῷ ἐμποδίσῃ. ἀλλ' ἵνα μὴ πάντες ἀπόλωνται ⁑</p>
+                     <p> ἐπωφελοῦς· δεῖ γάρ φησί τὰ ἀπὸ τῆς τύχης προσ γινόμενα. ταῖς βουλαῖς
+                        ἀντισηκοῦν⁑</p>
                   </div>
                </div>
-               <div n="8.25" type="scholion">
+               <div n="10.23" type="scholion">
                   <div type="marker">
-                     <p><num value="6">Ϛ</num></p>
+                     <p><num value="21"><unclear>κ</unclear></num></p>
                   </div>
                   <div type="ref">
-                     <p>8.31</p>
+                     <p>10.23</p>
                   </div>
                   <div type="comment">
-                     <p>μετρίοις χρῆται λόγοις· πατέρα γὰρ αὐτὸν ἐν προοιμίοις ἀποκαλεῖ. καὶ τῶν
-                        ἄλλων θεῶν μέγιστον· καὶ τῇ <choice>
-                           <abbr>ὑπεροχ</abbr>
-                           <expan>ὑπερόχῃ</expan>
-                        </choice> ἣν ἔχειν βούλεται. μαρτυρεῖ συντόμως αὐτή⁑</p>
+                     <p>θεοσεβὴς ὑπόνοια μὴ δι' <persName n="pers1">Ἀχιλλέα</persName>. διὰ δὲ
+                        θυσίας λέγειν τὸν Δία βοηθεῖν ηὔξησε τὰ ἔργα τοῦ <persName n="pers172"
+                           >Ἕκτορος</persName> ἀνυπέρβλητα φήσας αὐτὰ εἶναι καὶ ὄψει καὶ ἀκοῇ⁑</p>
                   </div>
                </div>
                <div n="8.26" type="scholion">
