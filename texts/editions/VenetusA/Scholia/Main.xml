@@ -371,18 +371,15 @@
                             <p><persName n="urn:cite:hmt:pers.pers105">τυραννίων</persName> τὴν <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:10.25"
                                         >αὐτῷ</q>
-                                </cit> ἀντωνυμίαν <choice>
-                                    <abbr>καθ'</abbr>
-                                    <expan>καθ‘ ἓν</expan>
-                                </choice> ἐλάμβανεν ὡς ἐν τη συνηθείᾳ· ὁ δὲ <persName
+                                </cit> ἀντωνυμίαν καθὲν ἐλάμβανεν ὡς ἐν τη συνηθείᾳ· ὁ δὲ <persName
                                     n="urn:cite:hmt:pers.pers539">ἀσκαλωνίτης</persName> τὸν <cit>
-                                    <q n="urn:cts:greekLit:tlg0012.tlg001.msA:10.25">αῦ</q>
+                                    <q n="urn:cts:greekLit:tlg0012.tlg001.msA:10.25">αὖ</q>
                                 </cit> σύνδεσμον παρελάμβανε καὶ τὸ <cit>
                                     <q n="urn:cts:greekLit:tlg0012.tlg001.msA:10.25">τῷ</q>
                                 </cit>. ϊσοδυναμοῦν τῷ τούτῳ ὁμοίως τῷ <cit>
-                                    <q n="urn:cts:greekLit:tlg0012.tlg002.msA:14.161">τοῦδ' αὒ
+                                    <q n="urn:cts:greekLit:tlg0012.tlg002.msA:14.161">τοῦδ' αὖ
                                         λυκα</q>
-                                </cit>. ἴση δέ μοι δοκεῖ ἡ ἀνάγνωσις εἶναι. ἐπι μέντοι <cit>
+                                </cit>. ἴση δέ μοι δοκεῖ ἡ ἀνάγνωσις εἶναι, ἐπι μέντοι <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg002.msA:14.161"
                                         >τοῦδ' αὖ τοῦ λυκα,</q>
                                 </cit> κατεπεῖγον ἐστιν <cit>
@@ -392,10 +389,10 @@
                                 </cit> ἀναγνῶναι, κωλύεται γὰρ ἐνθάδε ἐμπαραληφθῆναι <choice>
                                     <abbr>υπ</abbr>
                                     <expan>ὑπὸ</expan>
-                                </choice> τοῦ σημαινομένου τὸ <choice>
+                                </choice> τοῦ <w>σημαινομ<unclear>ένου</unclear></w> τοῦ <choice>
                                     <abbr>αυτ</abbr>
                                     <expan>αὐτοῦ</expan>
-                                </choice>
+                                </choice>⁑
                             </p>
 
                         </div>
