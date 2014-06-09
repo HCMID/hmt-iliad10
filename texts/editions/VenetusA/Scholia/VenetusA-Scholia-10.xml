@@ -285,11 +285,11 @@
                                     <abbr>ουτ</abbr>
                                     <expan>οὕτως</expan>
                                 </choice>
-                                <persName n="urn:cite:hmt:pers.pers539">
+                                
                                     <choice>
                                         <abbr>ασκαλνίτ</abbr>
                                         <expan>Ἀσκαλωνίτης</expan>
-                                    </choice></persName>⁑</p>
+                                    </choice>⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.15" type="scholion">
@@ -373,8 +373,7 @@
                             <p><persName n="urn:cite:hmt:pers.pers105">τυραννίων</persName> τὴν <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg001.msA:10.25"
                                         >αὐτῷ</q>
-                                </cit> ἀντωνυμίαν καθὲν ἐλάμβανεν ὡς ἐν τη συνηθείᾳ· ὁ δὲ <persName
-                                    n="urn:cite:hmt:pers.pers539">ἀσκαλωνίτης</persName> τὸν <cit>
+                                </cit> ἀντωνυμίαν καθὲν ἐλάμβανεν ὡς ἐν τη συνηθείᾳ· ὁ δὲ ἀσκαλωνίτης τὸν <cit>
                                     <q n="urn:cts:greekLit:tlg0012.tlg001.msA:10.25">αὖ</q>
                                 </cit> σύνδεσμον παρελάμβανε καὶ τὸ <cit>
                                     <q n="urn:cts:greekLit:tlg0012.tlg001.msA:10.25">τῷ</q>
@@ -835,7 +834,7 @@
                             <p>πρὸς τὰ περι τοῦ ναυσταθμοῦ, ὅτι πλησίον ὁ <persName
                                     n="urn:cite:hmt:pers.pers287">Ϊδομενευς</persName>
                                 <persName n="urn:cite:hmt:pers.pers127">Αἴαντος</persName> τοῦ
-                                    <persName n="urn:cite:hmt:pers.pers605">Τελαμωνίου</persName>
+                                    <persName>Τελαμωνίου</persName>
                                 ἐνεωλκήκει</p>
                         </div>
                     </div>
@@ -1227,8 +1226,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001:msA:10.208</p>
                         </div>
                         <div type="comment">
-                            <p>ὄτι κακῶσ ἐν τοῖσ μετα ταυτα κείνται ὅ τε τὸν <persName
-                                    n="urn:cite:hmt:pers.pers555">Δόλωνα</persName> συλλαμβάνουσιν
+                            <p>ὄτι κακῶσ ἐν τοῖσ μετα ταυτα κείνται ὅ τε τὸν Δόλωνα συλλαμβάνουσιν
                                 οἱ περι <persName n="urn:cite:hmt:pers.pers215">Διομηδη</persName>
                                 τὴν δὲ σφίσι νῦν ὀρθοτονητέον, καὶ δια την σύνταξιν δια τὴν
                                 μετάληψιν· εἰσ γὰρ σύνθετον‡</p>
@@ -1429,8 +1427,7 @@
                             <p>Ἀλεξίων τὸ <rs type="waw">ε</rs> τῇ ἀντωνυμίᾳ δίδωσιν αὐτῷ ῥήματι
                                 τελεικόν. καὶ δοκεῖ ὀρθοτονεῖν ὡς εἰ καὶ συνθέτως ἐλέγτο ἐμαυτον,
                                 καὶ τοῦτό γε ἐχρῆν εἶναι, ἀεὶ γὰρ αἱ του πρωτου προσώπου ἀντωνυμίαι
-                                προτασσόμεναι τῆς αὐτὸς ὀρθοτονοῦνται· ὁ μέντοι <persName
-                                    n="urn:cite:hmt:pers.pers542">Ἀσκαλωνίτης</persName> καὶ
+                                προτασσόμεναι τῆς αὐτὸς ὀρθοτονοῦνται· ὁ μέντοι Ἀσκαλωνίτης καὶ
                                     <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
                                 ἐγκλητικῶς ἀνεγνώκασιν. ἐπι τὸν <rs type="waw">τε</rs> σύνδεσμον
                                 ποιοῦντες τὴν ὀξεῖαν ἵνα μὴ ὡς ἀκατάλληλον φανῇ τὸ ἑμαυτὸν
@@ -1476,8 +1473,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001:msA:10.246</p>
                         </div>
                         <div type="comment">
-                            <p>δύναται καὶ <q>σπομένοιο</q> ὡς φησὶν ὁ <persName
-                                    n="urn:cite:hmt:pers.pers542">Ἀσκαλωνίτης</persName>. καὶ ὅμοιόν
+                            <p>δύναται καὶ <q>σπομένοιο</q> ὡς φησὶν ὁ Ἀσκαλωνίτης. καὶ ὅμοιόν
                                 ἐστι τοῦ <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001:msA:13.570</ref>
                                     <q>ὁ δε σπώμενος περὶ δουρί</q>
@@ -1853,8 +1849,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.314</p>
                         </div>
                         <div type="comment">
-                            <p>δια τί κηρυκος πλουσίου εἴρηκε τον <persName
-                                    n="urn:cite:hmt:pers.pers555">δόλωνα</persName>· κήρυκος μὲν οὖν
+                            <p>δια τί κηρυκος πλουσίου εἴρηκε τον Δόλωνα· κήρυκος μὲν οὖν
                                 εἰς τὸ εὐχερῶς ὐπακούειν, πλουσὶ δὲ εἰς τὸ δυνηθῆναι ἑαυτὸν
                                 λυτρώσασθαι, ποδώκην δὲ δια τὸ ἐπ ελπίδι φυγεῖν τὸυς διώκοντας </p>
                         </div>
@@ -2376,8 +2371,7 @@
                                 προκεκοφυιασ ἐρωτῶν η μένουσιν ἠ ἀπέρχονται ἐπι τὴν <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλιν</expan>
-                                </choice>. καὶ ὡσ ἃν τούτων μὴ ειρημένων ὁ <persName
-                                    n="urn:cite:hmt:pers.pers555">Δόλων</persName> πρὸσ μὲν τὰ ἄλλα
+                                </choice>. καὶ ὡσ ἃν τούτων μὴ ειρημένων ὁ Δόλων πρὸσ μὲν τὰ ἄλλα
                                 ἀποκρίνεται. προσ δὲ ταῦτα ὄυ τὸ δὲ ἄσσα ἐνθάδε ψιλωτεόν ἰσοδυναμεῖ
                                 γὰρ τὸ τίνα</p>
                         </div>
