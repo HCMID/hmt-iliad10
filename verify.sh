@@ -1,4 +1,3 @@
-
 if [ "$#" -ne 1 ]; then
     echo "Usage: sh verify.sh URN"
     exit
