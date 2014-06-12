@@ -8,8 +8,8 @@ project.ext {
     folioToImage = "/vagrant/hmt-iliad10/indices/venA-folioToImage.csv"
 
 
-    textToImage = "/vagrant/hmt-iliad10/indices/venA-textToImage-Iliad.csv,/vagrant/hmt-iliad10/indices/venA-textToImage-scholia.csv"
-    textToFolio = "/vagrant/hmt-iliad10/indices/venA-textToFolio-Iliad.csv,/vagrant/hmt-iliad10/indices/venA-textToFolio-scholia.csv"
+    textToImage = "/vagrant/hmt-iliad10/indices/venA-textToImage-Iliad.csv"
+    textToFolio = "/vagrant/hmt-iliad10/indices/venA-textToFolio-Iliad.csv"
     
 
     scholiaInventories = "/vagrant/hmt-iliad10/collections/VenetusA-Scholia.csv"
