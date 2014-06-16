@@ -582,9 +582,8 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.68" type="scholion">
                         <div type="lemma">
-                            <p>‡ ἀλλ᾽ ΐθι νῦν <persName
-                                        n="urn:cite:hmt:pers.pers127"
-                                >Αἴαντα</persName>·</p>
+                            <p>‡ ἀλλ᾽ ΐθι νῦν <persName n="urn:cite:hmt:pers.pers127"
+                                    >Αἴαντα</persName>·</p>
                         </div>
                         <div type="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.53</p>
@@ -630,6 +629,7 @@
                                     </choice></persName> προηθέτει ⁑</p>
                         </div>
                     </div>
+                    
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.70" type="scholion">
                         <div type="lemma">
                             <p>ἀλλ᾽ ἴθι νῦν <persName n="urn:cite:hmt:pers.pers127"
@@ -647,28 +647,64 @@
                                 ⁑</p>
                         </div>
                     </div>
+                    
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.71" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἐλθεῖν ἐς φυλάκων·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.56</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὡς σκυλακων ἐπι γὰρ τῶν ανδρῶν τέτακται οὐκ επι τῶν τόπων ὅτι
+                                    <title>οἱ Γλωσσογράφοι</title>
+                                <q>ἱερὸν τέλος</q> τὸ μέγα τάγμα σημαίνει δὲ πλείονα ἡ λέξις. ποτὲ
+                                μὲν τὸ τάγμα ὡς ἐνθάδε· ποτὲ δὲ τοῦ συμπεπληρωμένου τάγματος. ἠ
+                                έργου τὸ τελος. <sic>ποτὲ δὲ τοῦ συμπεπληρωμένου τάγματος·</sic>
+                                ποτὲ δὲ τὴν ἐκ τῶν επεισαγομένων ὠνίων φοιτῶσαν ταῖς πόλεσι πρόσοδον
+                                ποτὲ δὲ τὰς ἀρχὰς καὶ τὰ ἀξιώματα ὡς ἐστιν εὑρεῖν παρά τε <persName
+                                    n="urn:cite:hmt:pers.pers333">Θουκυδίδῃ</persName> καὶ <persName
+                                    n="urn:cite:hmt:pers.pers311">Ξενοφῶντι</persName>. ποτὲ δὲ τὸ <choice>
+                                    <abbr>δαπάνημ</abbr>
+                                    <expan>δαπάνημα</expan>
+                                </choice> ὡς <persName n="urn:cite:hmt:pers.pers97"
+                                    >Εὐριπίδης</persName> ἐν <title>Πολυείδῳ</title>
+                                <q>μάτην γὰρ οἴκῳ σὸν τόδ᾽ ἐκβαίη τέλος</q>. καὶ <persName
+                                    n="urn:cite:hmt:pers.pers256">Δημοσθένης</persName> ἐν
+                                    <title>τοῖς Φιλιππικοῖς</title>· “<cit>
+                                    <ref type="urn">urn:cite:hmt:tlg0014.006:30.5</ref>
+                                    <q><placeName n="urn:cite:hmt:place.place221"
+                                            >Χειρόνησον</placeName> δὲ ἐν τοῖς ἑαυτοῦ τέλεσι
+                                        διορύξει</q>
+                                </cit>· ποτὲ δὲ τὴν εορτήν ὡς <persName n="urn:cite:hmt:pers.pers97"><choice>
+                                        <abbr>Ευριπ</abbr>
+                                        <expan>Εὐριπίδης</expan>
+                                    </choice></persName> ἐν <title><choice>
+                                        <abbr>Μηδ</abbr>
+                                        <expan>Μηδείᾳ</expan>
+                                    </choice></title>
+                                <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0006.036:1382</ref>
+                                    <q>σεμνὴν εορτὴν καὶ τέλος προσάψωμεν</q>
+                                </cit>:</p>
                         </div>
                     </div>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.72" type="scholion">
+                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.6001" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>ἱερὸν τέλος</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.56</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὡς <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.407</ref>
+                                    <q>ἱερὸν ἰχθῦν</q>
+                                </cit> τὸν μέγαν ἱερὸν μὲν οὖν τέλος λέγει τὸ θειον τάγμα
+                                <q>ἱερὸν</q> δὲ <q>ἰχθὺν</q> τὸν ἄνετον καὶ ἱερὸν βοῦν ἀπο τοῦ ΐεσθαι ⁑</p>
                         </div>
                     </div>
+                    
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.73" type="scholion">
                         <div type="lemma">
                             <p/>
