@@ -726,10 +726,12 @@
                             <p>αῦθι μένειν·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.65</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅτι τῷ ἀπαρεμφάτω· ἀντι τοῦ προστακτικοῦ <q>μένειν</q> ἀντι τοῦ <q>μένε</q>·
+                                τὸ δὲ <q>αβροτάξομεν</q> ψιλωτέον ὁμοίως τὸ <q>ήμβροτες</q>· τινὲς γοῦν κυρίως ἡγοῦνται τοῦ βροτοῦ μὴ ἐπιτυχεῖν ἀλλα
+                                ἁμαρτῆσαι ὼς τὸ καὶ στέρησιν ἐγκεῖσθαι⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.75" type="scholion">
@@ -737,10 +739,12 @@
                             <p>φθέγγεο·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τεχνικῶς ἵνα, ἐκ τῆς φωνῆς <choice><reg>ἐπιγινώσκεται</reg><orig>ἐπιγινώσκηται</orig></choice> φίλος
+                                ὦν μὴ καὶ ὑπονοήσουσιν ἔφοδον εῖναι πολεμίων καὶ <persName n="urn:cite:hmt:pers.pers117">Νέστωρ</persName> πρὸς
+                                <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονά</persName> φησιν <cit ><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.85</ref><q>φθέγγεο μηδ᾽ ἀκέων ἐπ έμ᾽ έρχεο</q></cit> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.76" type="scholion">
