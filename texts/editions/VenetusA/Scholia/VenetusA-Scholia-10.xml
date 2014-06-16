@@ -629,7 +629,7 @@
                                     </choice></persName> προηθέτει ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.70" type="scholion">
                         <div type="lemma">
                             <p>ἀλλ᾽ ἴθι νῦν <persName n="urn:cite:hmt:pers.pers127"
@@ -647,7 +647,7 @@
                                 ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.71" type="scholion">
                         <div type="lemma">
                             <p>ἐλθεῖν ἐς φυλάκων·</p>
@@ -701,19 +701,24 @@
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:16.407</ref>
                                     <q>ἱερὸν ἰχθῦν</q>
                                 </cit> τὸν μέγαν ἱερὸν μὲν οὖν τέλος λέγει τὸ θειον τάγμα
-                                <q>ἱερὸν</q> δὲ <q>ἰχθὺν</q> τὸν ἄνετον καὶ ἱερὸν βοῦν ἀπο τοῦ ΐεσθαι ⁑</p>
+                                    <q>ἱερὸν</q> δὲ <q>ἰχθὺν</q> τὸν ἄνετον καὶ ἱερὸν βοῦν ἀπο τοῦ
+                                ΐεσθαι ⁑</p>
                         </div>
                     </div>
-                    
+
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.73" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p>πῶς γάρ μοι μύθω·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.61</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>στικτέον <choice>
+                                    <abbr>κατ</abbr>
+                                    <expan>κατὰ</expan>
+                                </choice> τὸ τέλος τοῦ στίχου. καὶ ἀφ ετέρας ἀρχῆς πευστικῶς τὰ εξῆς
+                                προσενεκτέον ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.74" type="scholion">
