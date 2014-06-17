@@ -729,9 +729,10 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.65</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι τῷ ἀπαρεμφάτω· ἀντι τοῦ προστακτικοῦ <q>μένειν</q> ἀντι τοῦ <q>μένε</q>·
-                                τὸ δὲ <q>αβροτάξομεν</q> ψιλωτέον ὁμοίως τὸ <q>ήμβροτες</q>· τινὲς γοῦν κυρίως ἡγοῦνται τοῦ βροτοῦ μὴ ἐπιτυχεῖν ἀλλα
-                                ἁμαρτῆσαι ὼς τὸ καὶ στέρησιν ἐγκεῖσθαι⁑</p>
+                            <p>ὅτι τῷ ἀπαρεμφάτω· ἀντι τοῦ προστακτικοῦ <q>μένειν</q> ἀντι τοῦ
+                                    <q>μένε</q>· τὸ δὲ <q>αβροτάξομεν</q> ψιλωτέον ὁμοίως τὸ
+                                    <q>ήμβροτες</q>· τινὲς γοῦν κυρίως ἡγοῦνται τοῦ βροτοῦ μὴ
+                                ἐπιτυχεῖν ἀλλα ἁμαρτῆσαι ὼς τὸ καὶ στέρησιν ἐγκεῖσθαι⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.75" type="scholion">
@@ -742,20 +743,49 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
                         </div>
                         <div type="comment">
-                            <p>τεχνικῶς ἵνα, ἐκ τῆς φωνῆς <choice><reg>ἐπιγινώσκεται</reg><orig>ἐπιγινώσκηται</orig></choice> φίλος
-                                ὦν μὴ καὶ ὑπονοήσουσιν ἔφοδον εῖναι πολεμίων καὶ <persName n="urn:cite:hmt:pers.pers117">Νέστωρ</persName> πρὸς
-                                <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονά</persName> φησιν <cit ><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.85</ref><q>φθέγγεο μηδ᾽ ἀκέων ἐπ έμ᾽ έρχεο</q></cit> ⁑</p>
+                            <p>τεχνικῶς ἵνα, ἐκ τῆς φωνῆς <choice>
+                                    <reg>ἐπιγινώσκεται</reg>
+                                    <orig>ἐπιγινώσκηται</orig>
+                                </choice> φίλος ὦν μὴ καὶ ὑπονοήσουσιν ἔφοδον εῖναι πολεμίων καὶ
+                                    <persName n="urn:cite:hmt:pers.pers117">Νέστωρ</persName> πρὸς
+                                    <persName n="urn:cite:hmt:pers.pers22">Ἀγαμέμνονά</persName>
+                                φησιν <cit>
+                                    <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:10.85</ref>
+                                    <q>φθέγγεο μηδ᾽ ἀκέων ἐπ έμ᾽ έρχεο</q>
+                                </cit> ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.76" type="scholion">
                         <div type="lemma">
-                            <p>καὶ ἐργή X</p>
+                            <p>καὶ ἐγρήγορθαι ἄνωχθι·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ <q>ἐγρήγορθαι</q> ἀνέγνωμεν προπαροξύνοντες οὐκ εχρῆν δὲ εἴτε γὰρ
+                                συγκοπη ἐστιν τοῦ εγρηγορεναι ὀφείλει παροξύνεσθαι καθότι τὰ εἰς <rs
+                                    type="waw">θαι</rs> λήγοντα <choice>
+                                    <abbr>ἀπαρέμφατ</abbr>
+                                    <expan>ἀπαρέμφατα</expan>
+                                </choice>
+                                <choice>
+                                    <abbr>ἔχοντ</abbr>
+                                    <expan>ἔχοντα</expan>
+                                </choice> προ <unclear>τ</unclear>
+                                <rs type="waw">θ</rs> ἀμέταβολον, παροξύνεται. κεκάρται τετίλθαι
+                                ἐσπάρθαι· μίαν μέντοι ἀφορμη ὁρῶ τοῦ δύνασθαι προπαροξύνεσθαι τὸ
+                                    <q>ἐγρήγορθαι</q>. τὸ τὰ εἰς <rs type="waw">θαι</rs>
+                                <choice>
+                                    <abbr>λήγοντ</abbr>
+                                    <expan>λήγοντα</expan>
+                                </choice>τῇ <rs type="waw">ορ</rs>
+                                <w>συλλα<unclear>β</unclear>ῇ</w> παραληγόμενα μὴ παρ᾽ ἄλλη τιν
+                                διαλέκτω ορᾶσθαι ἢ τῇ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place77">Αἰολίδη</rs> τέτορθαι μέμορθαι
+                                ἔφθορθαι ὅθεν ἐπεὶ ἡ παράληξις <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place77">Αἰολικωτέρα</rs> ἐγένετο καὶ ὁ
+                                τονος ὁμοίως τοῖς προκειμένοις⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.77" type="scholion">
@@ -763,54 +793,80 @@
                             <p>ἄνωχθι.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> ἐνεστῶτος ἐστι καὶ παρατατικοῦ μᾶλλον ῆπερ παρακειμένου.
+                                ἀναλογώτερον δὲ παρα <persName n="urn:cite:hmt:pers.pers86"
+                                    >Καλλιμάχῳ</persName>. <q>ἄνωγε δὲ πόρθμενα νεκρῶν</q>. καὶ
+                                δῆλον ὅτι μεταβέβληται τὸ <rs type="waw">γ</rs> εἰς τὸ <rs
+                                    type="waw">χ</rs> ἐν τῷ <q>ἄνωχθι</q> δια τὸ <rs type="waw"
+                                    >θ</rs>. ὁ μὲν οὖν <persName n="urn:cite:hmt:pers.pers"
+                                    >Ἀπολλώνιος</persName> εἰς <rs type="waw">χε</rs> βούλεται εἶναι
+                                τα τοῦ παρακειμένου προστακτικὰ καὶ ϊκανῶς τῷ λόγῳ συνηγορεῖ· ὁ δὲ
+                                    <persName n="urn:cite:hmt:pers.pers493">Ηρῳδιανὸς</persName> εἰς
+                                    <rs type="waw">θι</rs> τουναντίον μηδε γὰρ εἶναι τὴν εἰς <rs
+                                    type="waw">ε</rs> κατάληξιν ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.78" type="scholion">
                         <div type="lemma">
-                            <p>πατρό θενεκτενεῆς</p>
+                            <p>πατρόθεν ἐκ γενεῆς.</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δυσωπεῖ γὰρ ὑπόμνησις προγονικῆς ἀρετῆς καὶ <choice>
+                                    <abbr>πρων</abbr>
+                                    <expan>πατέρων</expan>
+                                </choice> πράξεις ἐπαινούμεναι τὸ μὴ καὶ αὐτὸν εῖναι μιμητὴν
+                                ἐκείνων, ἀλλα κὰθαιρετικὸν τῆς περὶ αυτὸν εὐγενείας⁑ </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.79" type="scholion">
                         <div type="lemma">
-                            <p>ὡς X</p>
+                            <p>ὡς ὅταν <choice>
+                                    <abbr>λε</abbr>
+                                    <expan>λέγῃ</expan>
+                                </choice>:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.68</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><q>διογενὲς <persName n="urn:cite:hmt:pers.pers118"
+                                        >Λαερτιάδῃ</persName></q> τὸν <choice>
+                                    <abbr>πρά</abbr>
+                                    <expan>πατέρα</expan>
+                                </choice> δηλοῖ. τὸ δε <q>διογενὲς</q> τὸν ἀρχηγὸν τοῦ γένους⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.80" type="scholion">
                         <div type="lemma">
-                            <p>πατρό θενεκτενεῆς:</p>
+                            <p>πατρόθεν ἐκ γενεῆς:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.68</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> ὅτι <choice>
+                                    <sic>ἀρχαϊκῇ</sic>
+                                    <corr>ἀρχαϊκὴ</corr>
+                                </choice> ἡ συνήθεια ὥστε εἴ που τοιοῦτον εὑρίσκομεν εἰδέναι δεῖ ὅτι
+                                οὐκ επιθέτου ἔχει χώραν⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.81" type="scholion">
                         <div type="lemma">
-                            <p>εὐ χ</p>
+                            <p>εὐνῇ ἐνι μαλακῇ παρα δ᾽ἔντεα·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.75</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> ὅτι <q>ἔντεα</q> οὐ πάντα τὰ όπλα. ἀλλα κυρίως μὲν ἀσπὶς καὶ
+                                περικεφαλαία. τὰ δε δόρατα κατ επικράτειαν⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.96" type="scholion">
@@ -3287,7 +3343,8 @@
                         </div>
                         <div type="comment">
                             <p>
-                                <persName>Δημήτριος ο Ϊξίων</persName> ἐν <choice>
+                                <persName n="urn:cite:hmt:pers.pers250">Δημήτριος ο Ϊξίων</persName>
+                                ἐν <choice>
                                     <abbr>αλλ</abbr>
                                     <expan>ἄλλῳ</expan>
                                 </choice>
@@ -3347,10 +3404,17 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.53</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                        <abbr>αρισταρχ</abbr>
+                                        <expan>Ἀρίσταρχος</expan>
+                                    </choice></persName> δυϊκῶς <q><persName n="urn:cite:hmt:pers.pers281"><persName
+                                    n="urn:cite:hmt:pers.pers127"><choice>
+                                        <abbr>αίαντ</abbr>
+                                        <expan>Αἴαντε</expan>
+                                    </choice></persName></persName></q>:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.83" type="scholion">
@@ -3358,10 +3422,13 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.54</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><persName n="urn:cite:hmt:pers.pers16"><choice>
+                                <abbr>ἀρισταρχ</abbr>
+                                <expan>Ἀρίσταρχος</expan>
+                            </choice></persName> <q>παρὰ νηας</q>:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.84" type="scholion">
@@ -3369,10 +3436,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.55</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>γράφεται <q>αἴ κ᾽ εθέλησι</q> </p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.85" type="scholion">
@@ -3380,10 +3447,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.75</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>παρα τὸ ἐντὸς αὐτῶν εἶναι τὸν φοροῦντα ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAim.hmt:10.104" type="scholion">
@@ -5147,10 +5214,10 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.86" type="scholion">
                         <div type="lemma">
-                            <p/>
+                            <p><choice><abbr>υπνοῶ</abbr><expan>ὑπονοῶ</expan></choice></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.51</p>
                         </div>
                         <div type="comment">
                             <p/>
@@ -5161,10 +5228,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.52</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εἰργάσατο·</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.88" type="scholion">
@@ -5172,10 +5239,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.55</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἐὰν <choice><abbr>δύνατ</abbr><expan>δύναται</expan></choice> γέρων γὰρ ἦν:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.89" type="scholion">
@@ -5183,10 +5250,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.56</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τὸ τάγμα</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.90" type="scholion">
@@ -5194,10 +5261,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.65</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>αποτύχωμεν</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.91" type="scholion">
@@ -5205,10 +5272,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔνθα ἂν πορευθῆς ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.92" type="scholion">
@@ -5216,10 +5283,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p> καὶ ἐγρηγορέναι κέλευε:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.93" type="scholion">
@@ -5227,10 +5294,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.69</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>μηδὲ ἐπαιρου τῇ διανοια δι ὑπεριφανιαν :</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.94" type="scholion">
@@ -5238,10 +5305,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.71</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>τοῖς ἀεὶ ἀναφυομένοις πράγμασι ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.95" type="scholion">
@@ -5249,10 +5316,10 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.71</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ἔπεμψεν :</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.107" type="scholion">
