@@ -3417,49 +3417,67 @@
 
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.4514" type="scholion">
                         <div type="lemma">
-                            <p>λευκότε X</p>
+                            <p>λευκότεροι χειόνος θείειν δ᾽ ἀνέμοισιν·</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.437</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>δύο ὑπερβολὰς ενῆκεν ἐντεχνως· τὴν μεν ἐξ υπερθέσεως· τὴν δὲ ἐξ
+                                ωμοιώσεως· καὶ ἐφ εκατέρας παρέλαβεν το οικεῖον· χειονος μεν γαρ
+                                δύναταί τι λευκότερον γενέσθαι ἀνέμου δὲ θᾶσσον, οὐδέν επαινετὸν δὲ
+                                καὶ τὴν φράσην ὅτι κατ αιτιατικὴν δυναμενος εἰπεῖν <q>λευκοτέρους
+                                    χειόνος</q> καὶ τοῦ μετρου επιδεχομενου κατ ιδίαν εφώνησε τὸν
+                                επαινον. πῶς ἐδώκει εἰδέναι ὅτι ταχεῖς εἰσὶν εἴ γε νεήλυδες ῆσαν ῆ
+                                ὡς ακούσας ἢ ὡς ἀποσεμνύνων ὡς καὶ σωθησομένων αυτῶν δια τῶν ἵππων
+                                μετα τὴν <rs type="ethnic" n="urn:cite:hmt:place.place70"
+                                    >Θρᾳκῶν</rs> επαναστασιν ⁑</p>
                         </div>
 
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.4515" type="scholion">
                         <div type="lemma">
-                            <p>λευκότε X</p>
+                            <p>λευκότεροι χιόνος</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.437</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>εἶπεν, ἵνα φανῶσι νυκτός· <q>θείειν δ᾽ ἀνέμοισιν ὁμοῖοι</q> ἵνα
+                                φθάσωσιν επ αυτὸν διασωθῆναι· ἵστεον δὲ ὅτι ἐμείωσε τὴν ὑπερβολὴν εκ
+                                τοῦ μὴ ειπειν αὐτοὺς καὶ τῶν ἀνέμων ταχυτέρους ⁑</p>
                         </div>
 
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.4516" type="scholion">
                         <div type="lemma">
-                            <p>χωρις X</p>
+                            <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.437</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>χωριστέον τοῦ ἐπάνω <choice>
+                                    <abbr>στιχ</abbr>
+                                    <expan>στίχου</expan>
+                                </choice> ἵνα μὴ σώλοικον γένηται καὶ ἄλλως καθ εαυτὸ λεγόμενον
+                                πλείονα ἔμφασιν παρ᾽ ἵστησι λείπει δὲ τὸ <q>εἰσὶ</q> ῥῆμα
+                                    <q>λευκότεροί εισι</q> :</p>
                         </div>
 
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.4517" type="scholion">
                         <div type="lemma">
-                            <p>τευχεα:</p>
+                            <p>τεύχεα:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.439</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p>ὅπλα· ειρῆσθαι δὲ αὐτὰ <persName>Ἵστρος</persName>
+                                φησὶ παρα τὸ ἐν <placeName>Τευχίω</placeName> τῷ <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place100">Εὐβωϊκῶ</rs> κατεσκευᾶσθαι
+                                πρῶτον ὑπο <persName>Κυκλώπων</persName> ⁑</p>
                         </div>
 
                     </div>
