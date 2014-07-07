@@ -1028,8 +1028,9 @@
                                 τοῦ μένειν τὸ <rs type="waw">α</rs> τῆς<q> ναυσὶ</q> δοτικῆς
                                 κατιδίαν γὰρ παρα τῷ ποιητῇ ἢ δια τοῦ <rs type="waw">η</rs> λέγεται
                                 ἤ δια τοῦ <rs type="waw"> ε</rs> ἐν δε συνθέσει δια τοῦ <rs
-                                    type="waw">α</rs>. <persName>Ναυσικάα</persName>
-                                <persName><choice>
+                                    type="waw">α</rs>. <persName n="urn:cite:hmt:pers.pers573"
+                                    >Ναυσικάα</persName>
+                                <persName n="urn:cite:hmt:pers.pers574"><choice>
                                         <sic>Ναυσίθθ</sic>
                                         <corr>Ναυσίθοος</corr>
                                     </choice></persName>· τὸ μὲν οὖν <q>δουρὶ κλυτὸς</q>ἐν
@@ -1430,11 +1431,12 @@
                                     <persName n="urn:cite:hmt:pers.pers15"><choice>
                                         <abbr>Ζηνόδοτ</abbr>
                                         <expan>Ζηνόδοτον</expan>
-                                    </choice></persName> γράφοντα ἐκεῖ· “<cit>
+                                    </choice></persName> γράφοντα ἐκεῖ· <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:19.239</ref>
-                                    <q><persName>Φυλείδην</persName> τε <persName>Μέγην</persName>
+                                    <q><persName n="urn:cite:hmt:pers.pers497">Φυλείδην</persName>
+                                        τε <persName n="urn:cite:hmt:pers.pers497">Μέγην</persName>
                                         τε</q>
-                                </cit>” τὸν Φυλείδην οἰόμενον ὄνομα κύριον ⁑</p>
+                                </cit> τὸν <persName n="urn:cite:hmt:pers.pers497">Φυλείδην</persName> οἰόμενον ὄνομα κύριον ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.1547" type="scholion">
@@ -3492,7 +3494,7 @@
                             <p>ὅτι <persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName>
                                 <q>ἠὲ κατ αῖσαν ἔειπον</q> ἔξω τοῦ <q>ρα</q> καὶ ἔστιν ὅμοιον· τῷ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.86</ref>
-                                    <q>ἠὲ μετα Τρώεσσιν</q>
+                                    <q>ἠὲ μετα <rs type="ethnic" n="urn:cite:hmt:pers.pers6">Τρώεσσιν</rs></q>
                                 </cit>⁑</p>
                         </div>
 
@@ -3566,9 +3568,10 @@
                                 <persName n="urn:cite:hmt:pers.pers455">Θαμυρις</persName> ὁ <rs
                                     type="ethnic" n="urn:cite:hmt:place.place70">Θρᾷξ</rs>
                                 <persName n="urn:cite:hmt:pers.pers571">Μελπομενης</persName> καὶ
-                                    <persName>Ἀχελῴου</persName>. Σειρῆνες,
-                                    <persName>Πολυμνιας</persName>
-                                <persName>Τριπτολεμος</persName> ⁑</p>
+                                    <persName n="urn:cite:hmt:pers.pers545">Ἀχελῴου</persName>.
+                                Σειρῆνες, <persName n="urn:cite:hmt:pers.pers572"
+                                    >Πολυμνιας</persName>
+                                <persName n="urn:cite:hmt:pers.pers546">Τριπτολεμος</persName> ⁑</p>
                         </div>
 
                     </div>
