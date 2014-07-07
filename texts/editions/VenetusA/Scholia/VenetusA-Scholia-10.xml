@@ -3531,10 +3531,10 @@
                             <p>ἤ τε καὶ ὕστερον εἶσθα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.450</p>
                         </div>
                         <div type="comment">
-                            <p>οὕτως ἐγένετο τὸ <q>ῆσθα</q>. <q>εἰμι</q> τὸ δεύτερον “<cit>
+                            <p>οὕτως ἐγένετο τὸ <q>ῆσθα</q>. <q>εἰμι</q> τὸ δεύτερον <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0020.tlg002:208</ref>
                                     <q>εῖς</q>
                                 </cit> εῖτα <q>εῖσθα</q> ⁑</p>
@@ -3547,22 +3547,27 @@
                                 τίκτονται:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.X</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.435</p>
                         </div>
                         <div type="comment">
-                            <p><persName>Ορφεὺς</persName>, ἐκ <persName>Καλιώπης</persName> ἡ
-                                    <persName>Κλειοῦς</persName>, λῖνος
-                                    <persName>Τερψιχόρης</persName> ἠ ὥς τινες
-                                    <persName>Εὐτέρπης</persName>· <persName
-                                    n="urn:cite:hmt:pers.pers452">Ῥῆσος</persName>
-                                <persName>Τερψιχώρης</persName> ἡ <persName>Εὐτερπης</persName>· <rs
+                            <p><persName n="urn:cite:hmt:pers.pers544">Ορφεὺς</persName>, ἐκ
+                                    <persName n="urn:cite:hmt:pers.pers564">Καλιώπης</persName> ἡ
+                                    <persName n="urn:cite:hmt:pers.pers167">Κλειοῦς</persName>,
+                                    <persName n="urn:cite:hmt:pers.pers565">Λῖνος</persName>
+                                <persName n="urn:cite:hmt:pers.pers566">Τερψιχόρης</persName> ἠ ὥς
+                                τινες <persName n="urn:cite:hmt:pers.pers567">Εὐτέρπης</persName>·
+                                    <persName n="urn:cite:hmt:pers.pers452">Ῥῆσος</persName>
+                                <persName n="urn:cite:hmt:pers.pers566">Τερψιχώρης</persName> ἡ
+                                    <persName n="urn:cite:hmt:pers.pers567">Εὐτερπης</persName>· <rs
                                     type="ethnic" n="urn:cite:hmt:place.place70">Θρᾲξ</rs>
-                                <persName>Θαλλίας</persName>· <persName>Παλαίφατος</persName>,
-                                    <persName>Ἐρατοῦς</persName>
+                                <persName n="urn:cite:hmt:pers.pers568">Θαλλίας</persName>·
+                                    <persName n="urn:cite:hmt:pers.pers570">Παλαίφατος</persName>,
+                                    <persName n="urn:cite:hmt:pers.pers569">Ἐρατοῦς</persName>
                                 <persName n="urn:cite:hmt:pers.pers455">Θαμυρις</persName> ὁ <rs
                                     type="ethnic" n="urn:cite:hmt:place.place70">Θρᾷξ</rs>
-                                <persName>Μελπομενης</persName> καὶ <persName>Ἀχελῴου</persName>.
-                                    <persName>Σειρῆνες</persName>, <persName>Πολυμνιας</persName>
+                                <persName n="urn:cite:hmt:pers.pers571">Μελπομενης</persName> καὶ
+                                    <persName>Ἀχελῴου</persName>. Σειρῆνες,
+                                    <persName>Πολυμνιας</persName>
                                 <persName>Τριπτολεμος</persName> ⁑</p>
                         </div>
 
