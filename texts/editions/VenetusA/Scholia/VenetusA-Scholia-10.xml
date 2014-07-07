@@ -2276,17 +2276,17 @@
                                 <q>βῆσα</q> καὶ <q>βῆσσα</q>. <q>ἄξω</q>
                                 <q>ἄξα</q> καὶ <q>ἅμαξα</q>
                                 <q>πείσω</q>
-                                <q>πεῖσα</q> “<cit>
+                                <q>πεῖσα</q> <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.23</ref>
                                     <q>τῷ δ᾽ ἂρ ἐν πείσῃ κραδίη μένε τετλη υἷα</q>
-                                </cit>” (υ 23). οὕτω καὶ ἀπο τοῦ <q>φρῶ</q>
+                                </cit>. οὕτω καὶ ἀπο τοῦ <q>φρῶ</q>
                                 <q>φρήσω</q>
                                 <q>φρῆσα</q>, κατα τροπὴν <q>φράσσα</q> καὶ <q>πρόφρασσα</q>· ἐστι
                                 δὲ τὸ <q>φρῶ</q> ὡς φησὶν ἀπο τοῦ <q>προϊῶ</q>
                                 <q>πρῶ</q> κατα συγκοπὴν. καὶ τροπῇ τοῦ <rs type="waw">π</rs> εἰς
                                     <rs type="waw">φ</rs>
                                 <q>φρῶ</q>, ἔστιν οὖν τὸ <q>πρόφρασσα</q>, παρα τὸ <q>προϊέναι</q>
-                                καὶ <q>προθυμεῖσθαι</q> μέμνηται <persName>Ὠρίων</persName> τούτων
+                                καὶ <q>προθυμεῖσθαι</q> μέμνηται <persName n="urn:cite:hmt:pers.pers563">Ὠρίων</persName> τούτων
                                 ἐν τῷ <title>Περι ετυμολογιῶν </title>:</p>
                         </div>
 
@@ -3269,9 +3269,8 @@
                         </div>
                         <div type="comment">
                             <p>ἔθνος <rs type="ethnic" n="urn:cite:hmt:place.place85">Καρικόν</rs>,
-                                λέγει δὲ τοὺς ἐν <placeName>Πιδαίῳ</placeName> πόλει <placeName
-                                    n="urn:cite:hmt:place.place85">Καρίας</placeName> οικοῦντας
-                                ⁑</p>
+                                λέγει δὲ τοὺς ἐν <placeName n="urn:cite:hmt:place.place266">Πιδαίῳ</placeName> πόλει <placeName
+                                    n="urn:cite:hmt:place.place85">Καρίας</placeName> οικοῦντας ⁑</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.4507" type="scholion">
@@ -3477,7 +3476,8 @@
                             <p>ὅπλα· ειρῆσθαι δὲ αὐτὰ <persName>Ἵστρος</persName> φησὶ παρα τὸ ἐν
                                     <placeName>Τευχίω</placeName> τῷ <rs type="ethnic"
                                     n="urn:cite:hmt:place.place100">Εὐβωϊκῶ</rs> κατεσκευᾶσθαι
-                                πρῶτον ὑπο <persName>Κυκλώπων</persName> ⁑</p>
+                                πρῶτον ὑπο Κυκλώπων
+                                ⁑</p>
                         </div>
 
                     </div>
