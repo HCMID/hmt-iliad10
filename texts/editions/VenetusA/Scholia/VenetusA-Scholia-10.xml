@@ -6409,7 +6409,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.41</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.41@ἐσται</p>
                         </div>
                         <div type="comment">
                             <p>ειη</p>
@@ -6420,7 +6420,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.43</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.43@χρεὼ βουλῆς</p>
                         </div>
                         <div type="comment">
                             <p>χρεία συμβουλῆς</p>
@@ -6431,7 +6431,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.44</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.44@κερδαλέης</p>
                         </div>
                         <div type="comment">
                             <p>ἐπωφελοὺς</p>
@@ -6442,7 +6442,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.48</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.48@μέρμερ’</p>
                         </div>
                         <div type="comment">
                             <p>μερίμνης άξιον·</p>
@@ -6450,16 +6450,16 @@
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.86" type="scholion">
                         <div type="lemma">
-                            <p><choice>
-                                    <abbr>υπνοῶ</abbr>
-                                    <expan>ὑπονοῶ</expan>
-                                </choice></p>
+                            <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.51</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.51@φημὶ</p>
                         </div>
                         <div type="comment">
-                            <p/>
+                            <p><choice>
+                                <abbr>υπνοῶ</abbr>
+                                <expan>ὑπονοῶ</expan>
+                            </choice></p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msAil.hmt:10.87" type="scholion">
@@ -6467,7 +6467,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.52</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.52@μήσατ’</p>
                         </div>
                         <div type="comment">
                             <p>εἰργάσατο·</p>
@@ -6478,7 +6478,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.55</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.55@αἴ κε πίθηται</p>
                         </div>
                         <div type="comment">
                             <p>ἐὰν <choice>
@@ -6492,7 +6492,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.56</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.56@τέλος</p>
                         </div>
                         <div type="comment">
                             <p>τὸ τάγμα</p>
@@ -6503,7 +6503,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.65</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.65@ἀβροτάξομεν</p>
                         </div>
                         <div type="comment">
                             <p>αποτύχωμεν</p>
@@ -6514,7 +6514,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67@ᾗ κεν ΐῃσθα</p>
                         </div>
                         <div type="comment">
                             <p>ἔνθα ἂν πορευθῆς ⁑</p>
@@ -6525,7 +6525,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.67@καὶ ἐγρηγορέναι ἄνωχθι</p>
                         </div>
                         <div type="comment">
                             <p> καὶ ἐγρηγορέναι κέλευε:</p>
@@ -6536,7 +6536,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.69</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.69@μηδὲ μεγαλίζεο θυμῷ</p>
                         </div>
                         <div type="comment">
                             <p>μηδὲ ἐπαιρου τῇ διανοια δι ὑπεριφανιαν :</p>
@@ -6547,7 +6547,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.71</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.71@ἐπὶ γεινομένοισιν, ἵ̈ει</p>
                         </div>
                         <div type="comment">
                             <p>τοῖς ἀεὶ ἀναφυομένοις πράγμασι ⁑</p>
@@ -6558,7 +6558,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.71</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.71@ἐπὶ γεινομένοισιν, ἵ̈ει</p>
                         </div>
                         <div type="comment">
                             <p>ἔπεμψεν :</p>
@@ -6569,7 +6569,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.79</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.79@ἐπέτραπε</p>
                         </div>
                         <div type="comment">
                             <p>ε</p>
@@ -6580,7 +6580,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.79</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.79@ἐπέτραπε γήραϊ λυγρῷ</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -6594,7 +6594,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.83</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.83@ὁρφναίην</p>
                         </div>
                         <div type="comment">
                             <p>σκοτεινήν·</p>
@@ -6605,7 +6605,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.84</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.84@οὐρήων</p>
                         </div>
                         <div type="comment">
                             <p>φυλάκων</p>
@@ -6616,7 +6616,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.89</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.89@εἰς ὅ κ’ ἀϋτμὴ</p>
                         </div>
                         <div type="comment">
                             <p>ἕως οῦ ἡ ἀναπνοή:</p>
@@ -6627,7 +6627,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.93</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.93@πέρι δείδια</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -6641,7 +6641,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.94</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.94@ἀλαλύκτημαι</p>
                         </div>
                         <div type="comment">
                             <p>ἐν ἄλλη καὶ πλάνη εἰμί ἀδημονῶ ἐκπεπληγμαι:</p>
@@ -6652,7 +6652,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.96</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.96@δραίνεις</p>
                         </div>
                         <div type="comment">
                             <p>ἐπινοεῖς δράσαι δύνασαι:</p>
@@ -6663,7 +6663,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.98</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.98@καμάτω ἁδηκότες</p>
                         </div>
                         <div type="comment">
                             <p>ὑπο κόπου αηδῶς διακείμενοι οκνήσαντες:</p>
@@ -6674,7 +6674,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.99</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.99@ἐπι πάγχυ</p>
                         </div>
                         <div type="comment">
                             <p>παντελῶς</p>
@@ -6685,7 +6685,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.100</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.100@δυσμενέες δ’ ἄνδρες σχεδὸν εἴαται</p>
                         </div>
                         <div type="comment">
                             <p>οἱ δὲ πολέμιοι ἐγγὺς κάθηνται⁑</p>
@@ -6701,7 +6701,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.101</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.101@μενοινήσωσι</p>
                         </div>
                         <div type="comment">
                             <p>προθυμήσωσι</p>
@@ -6712,7 +6712,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.104</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.104@οὔ θην</p>
                         </div>
                         <div type="comment">
                             <p>οὐδαμῶς δὴ</p>
@@ -6723,7 +6723,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.105</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.105@ἐέλπεται</p>
                         </div>
                         <div type="comment">
                             <p>δ</p>
@@ -6734,7 +6734,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.106</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.106@κήδεσι μοχθήσσειν</p>
                         </div>
                         <div type="comment">
                             <p>ταῖς φροντίσι</p>
@@ -6745,7 +6745,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.106</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.106@κήδεσι μοχθήσσειν</p>
                         </div>
                         <div type="comment">
                             <p>κακοπαθήσειν :</p>
@@ -6756,7 +6756,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.108</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.108@ποτὶ δ’ αῦ καὶ ἐγείρομεν ἄλλους</p>
                         </div>
                         <div type="comment">
                             <p>πρὸς τούτοις δὲ καὶ τοὺς ἄλλους ἐγείρομεν:</p>
@@ -6767,7 +6767,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.113</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.113@ἑκαστάτῳ</p>
                         </div>
                         <div type="comment">
                             <p>πορρωτάτω</p>
@@ -6778,7 +6778,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.114</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.114@αἰδοῖον</p>
                         </div>
                         <div type="comment">
                             <p>αἰδοὺς άξιον</p>
@@ -6789,7 +6789,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.115</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.115@οὐδ’ ἐπικεύσω</p>
                         </div>
                         <div type="comment">
                             <p>οὐδε αποκρύψω</p>
@@ -6800,7 +6800,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.117</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.117@πονέεσθαι</p>
                         </div>
                         <div type="comment">
                             <p>δια τὴν αυτὴν αἰτίαν·</p>
@@ -6811,7 +6811,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.118</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.118@οὐκέτ’ ἀνεκτός</p>
                         </div>
                         <div type="comment">
                             <p>ανυπομόνητος·</p>
@@ -6828,7 +6828,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.127</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.127@ἵνα</p>
                         </div>
                         <div type="comment">
                             <p>εκεῖ</p>
@@ -6839,7 +6839,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.127</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.127@ἐπέφραδον</p>
                         </div>
                         <div type="comment">
                             <p>εἶπον</p>
@@ -6850,7 +6850,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.133</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.133@περονήσατο</p>
                         </div>
                         <div type="comment">
                             <p>περόνι ἀναλάβετο·</p>
@@ -6861,7 +6861,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.133</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.133@φοινικόεσσαν</p>
                         </div>
                         <div type="comment">
                             <p>πυρράν</p>
@@ -6872,7 +6872,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.134</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.134@ἐκταδίην</p>
                         </div>
                         <div type="comment">
                             <p>εκτεταμένην </p>
@@ -6883,7 +6883,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.134</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.134@οὔλη</p>
                         </div>
                         <div type="comment">
                             <p>απαλὴ</p>
@@ -6894,7 +6894,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.145</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.145@βεβίηκεν</p>
                         </div>
                         <div type="comment">
                             <p>β̈ϊάξεται:</p>
@@ -6905,7 +6905,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.151</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.152@ὑπὸ κρασὶν</p>
                         </div>
                         <div type="comment">
                             <p>ὐπὸ ταῖς κεφαλαῖς</p>
@@ -6916,7 +6916,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.152</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.152@ἐλήλατο</p>
                         </div>
                         <div type="comment">
                             <p>ϊστατο εἰς τὴν γῆν·</p>
@@ -6927,7 +6927,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.153</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.153@λάμφ’</p>
                         </div>
                         <div type="comment">
                             <p>πε</p>
@@ -6938,7 +6938,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.155</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.155@ὑπο κράτεσφι</p>
                         </div>
                         <div type="comment">
                             <p>ὑπὸ τῆ κεφαλῆ</p>
@@ -6949,7 +6949,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.159</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.160@οὐκ ἀΐεις</p>
                         </div>
                         <div type="comment">
                             <p>οὐκ αἰσθάνηι</p>
@@ -6960,7 +6960,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.160</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.161@ὀλίγος δ’ ετί χῶρος</p>
                         </div>
                         <div type="comment">
                             <p>μικρὸν διάστημα</p>
@@ -6971,7 +6971,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.160</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.161@ἐρύκει</p>
                         </div>
                         <div type="comment">
                             <p>κωλύει</p>
@@ -6982,7 +6982,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.166</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.167@ἀμήχανος</p>
                         </div>
                         <div type="comment">
                             <p>πρὸς ὃν οὐκ εστι μηχανή</p>
@@ -6993,7 +6993,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.173</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.174@βιῶναι</p>
                         </div>
                         <div type="comment">
                             <p>σωθῆναι ζῆσαι:</p>
@@ -7004,7 +7004,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.177</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.177@εέσσατο</p>
                         </div>
                         <div type="comment">
                             <p>περιεβάλετο : </p>
@@ -7015,7 +7015,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.182</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.182@ἐγρηγορτὶ</p>
                         </div>
                         <div type="comment">
                             <p>εγρηγορῶτες</p>
@@ -7026,7 +7026,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.197</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.197@ἤϊσαν</p>
                         </div>
                         <div type="comment">
                             <p>ἐπορεύοντο :</p>
@@ -7038,7 +7038,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.197</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.197@συμμητιάασθαι</p>
                         </div>
                         <div type="comment">
                             <p>βουλεύσθαι :</p>
@@ -7052,7 +7052,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.202</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.202@πίφαυσκον</p>
                         </div>
                         <div type="comment">
                             <p>έλεγον</p>
@@ -7063,7 +7063,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.204</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.204@πεπίθοιθ’</p>
                         </div>
                         <div type="comment">
                             <p>το</p>
@@ -7074,7 +7074,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.205</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.205@τολμήεντι</p>
                         </div>
                         <div type="comment">
                             <p>καρτερικὼ</p>
@@ -7085,7 +7085,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.211</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.211@τε</p>
                         </div>
                         <div type="comment">
                             <p>κ</p>
@@ -7096,7 +7096,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.212</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.212@ἀσκηθής</p>
                         </div>
                         <div type="comment">
                             <p>αβλαβὴς ὑγιής <choice>
@@ -7110,7 +7110,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.216</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.216@ὑπόρρηνον</p>
                         </div>
                         <div type="comment">
                             <p>ύπαρνον ἔγκυον·</p>
@@ -7121,7 +7121,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.216</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.216@κτέρας</p>
                         </div>
                         <div type="comment">
                             <p>κτημα</p>
@@ -7132,7 +7132,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.217</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.217@εἰλαπίνῃσι</p>
                         </div>
                         <div type="comment">
                             <p>εορταῖς</p>
@@ -7143,7 +7143,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.223</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.223@θαλπωρὴ</p>
                         </div>
                         <div type="comment">
                             <p>ἡδονὴ θάλψεις</p>
@@ -7154,7 +7154,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.226</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.226@βράσσων</p>
                         </div>
                         <div type="comment">
                             <p>βραδύτερος ἠ ταρασσόμενος ⁑</p>
@@ -7165,7 +7165,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.235</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.235@ἕταρόν γ’ αἱρήσεαι</p>
                         </div>
                         <div type="comment">
                             <p>εταῖρον καὶ συνεργὸν ἐπιλέξαι ὸν ἂν θελης</p>
@@ -7176,7 +7176,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.238</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.238@ὀπάσσεαι</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -7190,7 +7190,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.239</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.239@ἐς γενεὴν ὁρόων</p>
                         </div>
                         <div type="comment">
                             <p>εἰς τὴν εὐγένειαν ἀφορῶν:</p>
@@ -7201,7 +7201,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.246</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.246@καὶ ἐκ πυρὸς</p>
                         </div>
                         <div type="comment">
                             <p>καὶ ἐκ τοῦ φανεροῦ</p>
@@ -7212,7 +7212,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.249</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.249@αἴνεε</p>
                         </div>
                         <div type="comment">
                             <p>ἐπαίνει</p>
@@ -7223,7 +7223,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.249</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.249@νείκει</p>
                         </div>
                         <div type="comment">
                             <p>ψέγε</p>
@@ -7234,7 +7234,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.251</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.251@ἄνεται</p>
                         </div>
                         <div type="comment">
                             <p>ανύεται <choice>
@@ -7251,7 +7251,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.254</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.254@δεινοῖσιν</p>
                         </div>
                         <div type="comment">
                             <p>φοβεροῖς</p>
@@ -7262,7 +7262,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.256</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.256@ἄμφηκες</p>
                         </div>
                         <div type="comment">
                             <p>τὸ εξ εκατέρου μέρους <choice>
@@ -7276,7 +7276,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.258</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.258@ταυρείην</p>
                         </div>
                         <div type="comment">
                             <p>δερματίνην:</p>
@@ -7287,7 +7287,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.258</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.258@ἄφαλόν τε καὶ ἄλλοφον</p>
                         </div>
                         <div type="comment">
                             <p>ούτε λόφον οὔτε <choice>
@@ -7301,7 +7301,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.258</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.258@καταῖτυξ</p>
                         </div>
                         <div type="comment">
                             <p>εἰδος περικεφαλαιας</p>
@@ -7312,7 +7312,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.262</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.262@ῥινοῦ ποιητήν</p>
                         </div>
                         <div type="comment">
                             <p>ἐκ δερματος γεγονυῖαν·</p>
@@ -7323,7 +7323,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.264</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.264@θαμέες</p>
                         </div>
                         <div type="comment">
                             <p>πυνοι</p>
@@ -7334,7 +7334,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.265</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.265@πῖλος</p>
                         </div>
                         <div type="comment">
                             <p>τὸ πεπιλημένον έριον :</p>
@@ -7345,7 +7345,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.266</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.266@Ἑλεῶνος</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -7359,7 +7359,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.267</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.267@Αὐτόλυκος</p>
                         </div>
                         <div type="comment">
                             <p>ο <persName n="urn:cite:hmt:pers.pers104">Ερμοῦ</persName> υἱός</p>
@@ -7370,7 +7370,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.267</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.267@πυκινὸν</p>
                         </div>
                         <div type="comment">
                             <p>ϊσχυρον</p>
@@ -7381,7 +7381,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.267</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.267@ἀντιτορήσᾱς</p>
                         </div>
                         <div type="comment">
                             <p>διωρύξας διαντρήσας :</p>
@@ -7392,7 +7392,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.268</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.268@Κυθηρίῳ</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -7406,7 +7406,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.271</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.271@πύκασεν</p>
                         </div>
                         <div type="comment">
                             <p>εσκέπασεν·</p>
@@ -7417,7 +7417,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.273</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.273@κατ’</p>
                         </div>
                         <div type="comment">
                             <p>παρ᾽</p>
@@ -7428,7 +7428,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.274</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.274@ἐρωδιὸν</p>
                         </div>
                         <div type="comment">
                             <p>εῖδος ὀρνέον</p>
@@ -7439,7 +7439,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.278</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.278@μοι</p>
                         </div>
                         <div type="comment">
                             <p>ευ</p>
@@ -7450,7 +7450,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.280</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.280@κινύμενος</p>
                         </div>
                         <div type="comment">
                             <p>κινούμενος ἐπι πρᾶξιν ὁρμῶν : </p>
@@ -7461,7 +7461,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.281</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.281@πάλιν</p>
                         </div>
                         <div type="comment">
                             <p>βις τοῦ πίσω </p>
@@ -7472,7 +7472,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.282</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.282@μέγα ἔργον</p>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16"><choice>
@@ -7487,7 +7487,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.285</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.285@σπεῖό μοι</p>
                         </div>
                         <div type="comment">
                             <p>συνακολούθησαν</p>
@@ -7498,7 +7498,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.287</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.287@Ἀσωπῷ</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -7514,7 +7514,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.288</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.288@Καδμείοισιν</p>
                         </div>
                         <div type="comment">
                             <p>τοῖς <rs type="ethnic" n="urn:cite:hmt:place.place49">Θηβαίοις</rs>
@@ -7526,7 +7526,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.289</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.289@κεῖσ’</p>
                         </div>
                         <div type="comment">
                             <p>ε</p>
@@ -7537,7 +7537,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.289</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.289@μήσατο ἔργα</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -7552,7 +7552,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.290</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.290@πρόφρασσα</p>
                         </div>
                         <div type="comment">
                             <p>πρόφρων <choice>
@@ -7566,7 +7566,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.292</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.292@ῆνῐν</p>
                         </div>
                         <div type="comment">
                             <p>ενιαυσιαίαν:</p>
@@ -7583,7 +7583,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.304</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.304@άρκιος</p>
                         </div>
                         <div type="comment">
                             <p>αὐτάρκης</p>
@@ -7595,7 +7595,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.307</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.307@οἵ τ’ αὐτῷ</p>
                         </div>
                         <div type="comment">
                             <p>και αυτὸς ἑαυτῶ</p>
@@ -7606,7 +7606,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.311</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.311@φύξιν βουλεύουσι</p>
                         </div>
                         <div type="comment">
                             <p>προσφυγὴν σκέπτονται ⁑</p>
@@ -7617,7 +7617,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.312</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.312@αδηκότες</p>
                         </div>
                         <div type="comment">
                             <p>κάμνοντες</p>
@@ -7628,7 +7628,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.324</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.324@ἀπὸ δόξης</p>
                         </div>
                         <div type="comment">
                             <p>οὐκ απο δοκήσεως καὶ εικασμοῦ</p>
@@ -7640,7 +7640,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.326</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.326@μέλλουσιν</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -7657,7 +7657,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.331</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.331@διαμπερές</p>
                         </div>
                         <div type="comment">
                             <p>μέχρι τέλους</p>
@@ -7668,7 +7668,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.332</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.332@ορόθυνεν</p>
                         </div>
                         <div type="comment">
                             <p>προέτρεψε·</p>
@@ -7679,7 +7679,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.334</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.334@πολιοῖο λύκοιο</p>
                         </div>
                         <div type="comment">
                             <p>λευκοῦ λύκου</p>
@@ -7690,7 +7690,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.342</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.342@ἢ</p>
                         </div>
                         <div type="comment">
                             <p>ει</p>
@@ -7701,7 +7701,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.346</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.346@παραφθαίῃσι</p>
                         </div>
                         <div type="comment">
                             <p>παρὰ αρά μοι</p>
@@ -7712,7 +7712,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.347</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.347@προτιειλεῖν</p>
                         </div>
                         <div type="comment">
                             <p>σύγκλειε:</p>
@@ -7723,7 +7723,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.348</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.348@ἀλύξῃ</p>
                         </div>
                         <div type="comment">
                             <p>εκ φύγη:</p>
@@ -7734,7 +7734,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.350</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.350@κλινθήτην</p>
                         </div>
                         <div type="comment">
                             <p>εκρύβησαν:</p>
@@ -7745,7 +7745,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.350</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.350@ἀφραδίῃσιν</p>
                         </div>
                         <div type="comment">
                             <p>ανοίαις</p>
@@ -7756,7 +7756,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.351</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.351@οῦρα</p>
                         </div>
                         <div type="comment">
                             <p>ὀριὰ ορμήματα:</p>
@@ -7767,7 +7767,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.357</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.357@δουρηνεκές</p>
                         </div>
                         <div type="comment">
                             <p>δόρατος βολὴν ῆ μῆκος</p>
@@ -7778,7 +7778,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.358</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.358@ἐνώμα</p>
                         </div>
                         <div type="comment">
                             <p>εκείνοι πρὸς φυγήν</p>
@@ -7789,7 +7789,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.361</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.361@κεμάδ’</p>
                         </div>
                         <div type="comment">
                             <p>ἐλαφον</p>
@@ -7800,7 +7800,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.362</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.362@μεμηκώς</p>
                         </div>
                         <div type="comment">
                             <p>φθεγγόμενος</p>
@@ -7811,7 +7811,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.364</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.364@ἐμμενὲς</p>
                         </div>
                         <div type="comment">
                             <p>επιμόνως</p>
@@ -7822,7 +7822,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.370</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.370@μέν’</p>
                         </div>
                         <div type="comment">
                             <p>ε</p>
@@ -7833,7 +7833,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.371</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.371@ἀποχειρὸς</p>
                         </div>
                         <div type="comment">
                             <p>ὑ̈</p>
@@ -7844,7 +7844,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.372</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.372@ἀφῆκεν</p>
                         </div>
                         <div type="comment">
                             <p>ε</p>
@@ -7855,7 +7855,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.375</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.375@βαμβαίνων</p>
                         </div>
                         <div type="comment">
                             <p>τρέμων</p>
@@ -7866,7 +7866,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.375</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.375@ἄραβος</p>
                         </div>
                         <div type="comment">
                             <p>ῆχος τῶ οδόντων</p>
@@ -7877,7 +7877,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.376</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.376@ὑπαὶ δείους</p>
                         </div>
                         <div type="comment">
                             <p><choice>
@@ -7891,7 +7891,7 @@
                             <p/>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.378</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.378@ζωγρεῖτ’</p>
                         </div>
                         <div type="comment">
                             <p>ζῶντα <choice>
