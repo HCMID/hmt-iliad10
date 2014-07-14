@@ -57,10 +57,16 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" 
+                                scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text[@n='msA']/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
+                        <!--
+                        <citation label="book" scope="/tei:TEI/tei:text/tei:body/tei:text/tei:group/tei:text[@n='msA']" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:text/tei:group/tei:text[@n='msA']/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation> -->
                     </citationMapping>
                 </online>
                 
@@ -76,10 +82,15 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" 
+                                scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text[@n='msAext']/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
+                        <!--<citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>-->
                     </citationMapping>
                 </online>
                 
@@ -95,10 +106,15 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" 
+                                scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text[@n='msAint']/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
+                        <!--<citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>-->
                     </citationMapping>
                 </online>
                 
@@ -114,10 +130,15 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" 
+                                scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text[@n='msAim']/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
+                        <!--<citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>-->
                     </citationMapping>
                 </online>
                 
@@ -134,10 +155,16 @@
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
-                        <citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
-                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                        <citation label="book" scope="/tei:TEI/tei:text" xpath="/tei:group[@n = '?']">
+                            <citation label="scholion" 
+                                scope="/tei:TEI/tei:text/tei:group[@n = '?']/tei:text[@n='msAint']/tei:body"
                                 xpath="/tei:div[@n = '?']"/>
                         </citation>
+                        
+                        <!--<citation label="book" scope="/tei:TEI/tei:text/tei:body" xpath="/tei:div[@n = '?']">
+                            <citation label="scholion" scope="/tei:TEI/tei:text/tei:body/tei:div[@n = '?']"
+                                xpath="/tei:div[@n = '?']"/>
+                        </citation>-->
                     </citationMapping>
                 </online>
                 
