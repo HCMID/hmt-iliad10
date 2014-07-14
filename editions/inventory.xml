@@ -30,7 +30,7 @@
             <edition urn="urn:cts:greekLit:tlg0012.tlg001.e3">
                 <label xml:lang="eng"> E3 </label>
                 <description xml:lang="eng"> Iliad text of the Escorial Upsilon 1.1 manuscript. </description>
-                <online docname="Esc-Upsilon-1-1/Iliad/Esc-Upsilon-1-1-Iliad.xml">
+                <online docname="Esc-Upsilon-1-1/Iliad/Esc-Upsilon-1-1-Iliad-10.xml">
                     
                     <namespaceMapping abbreviation="tei" nsURI="http://www.tei-c.org/ns/1.0"/>
                     <citationMapping>
