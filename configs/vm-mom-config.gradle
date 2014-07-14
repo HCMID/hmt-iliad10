@@ -4,6 +4,10 @@ project.ext {
     //folio = "urn:cite:hmt:msA.126r"
 
 
+  textInventory="/vagrant/hmt-iliad10/editions/inventory.xml"
+  textArchive="/vagrant/hmt-iliad10/editions"
+
+    
     // Lists of index files to use in verification:
     folioToImage = "/vagrant/hmt-iliad10/indices/venA-folioToImage.csv"
 
