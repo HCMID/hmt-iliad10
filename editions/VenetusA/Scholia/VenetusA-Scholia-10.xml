@@ -229,9 +229,9 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.13</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι ἐνθάδε καὶ ἐπι τῆς <title><ref type="urn"
-                                        >urn:cts:greekLit:tlg0012.tlg001.msA:18</ref>
-                                    ὁπλοποιϊας</title> τῶν αὐλῶν μέμνηται. <cit>
+                            <p> ὅτι ἐνθάδε καὶ ἐπι τῆς <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001.msA:18"
+                                ><title>
+                                    ὁπλοποιϊας</title></ref> τῶν αὐλῶν μέμνηται. <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001.msA:18.495</ref>
                                     <q>αὐλοὶ φόρμιγγές τε βοῶν</q>
                                 </cit>. δεῖ δὲ καὶ τὸ ἀκούων πρὸς ὑπακούειν ἔξωθεν <choice>
@@ -671,7 +671,7 @@
                                     >Εὐριπίδης</persName> ἐν <title>Πολυείδῳ</title>
                                 <q>μάτην γὰρ οἴκῳ σὸν τόδ᾽ ἐκβαίη τέλος</q>. καὶ <persName
                                     n="urn:cite:hmt:pers.pers256">Δημοσθένης</persName> ἐν
-                                    <title>τοῖς Φιλιππικοῖς</title>· <cit>
+                                <ref type="urn" n="urn:cite:hmt:tlg0014.006:30.5"><title>τοῖς Φιλιππικοῖς</title></ref>· <cit>
                                     <ref type="urn">urn:cite:hmt:tlg0014.006:30.5</ref>
                                     <q><placeName n="urn:cite:hmt:place.place221"
                                             >Χειρόνησον</placeName> δὲ ἐν τοῖς ἑαυτοῦ τέλεσι
@@ -1093,10 +1093,10 @@
                         </div>
                         <div type="comment">
                             <p>φιλαδέλφως ἀπολογεῖται δύο δέ ἐστι δι ὧν γράφει, ῥαθυμία, ἀμέλεια καὶ
-                                ἄνοια καὶ ἐν <title n="urn:cts:greekLit:tlg0012.tlg002"><choice>
+                                ἄνοια καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title><choice>
                                         <abbr>Οδ</abbr>
                                         <expan>Ὀδυσσείᾳ </expan>
-                                    </choice></title>
+                                    </choice></title></ref>
                                 <cit>
                                     <q type="ref" n="urn:cts:greekLit:tlg0012.tlg002:4.371-372">
                                         νήπιος. ἠὲ χαλίφρων ἠὲ ἑκών μεθίει</q>
@@ -1324,8 +1324,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.158</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ἐντεῦθεν εἰς τὴν <title n="urn:cts:greekLit:tlg0012.tlg002"
-                                    >Ὀδύσσειαν</title> μετάκειται ἐπὶ τοῦ <persName
+                            <p>ὅτι ἐντεῦθεν εἰς τὴν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title 
+                                    >Ὀδύσσειαν</title></ref> μετάκειται ἐπὶ τοῦ <persName
                                     n="urn:cite:hmt:pers.pers272">Πεισιστράτου</persName> κλινιδίου
                                 καθεύδοντός ῥα <persName n="urn:cite:hmt:pers.pers119"
                                     >Μενελάῳ</persName> προς τὶ οὖν ποδὶ ἀλλ᾽ οὐχὶ τῇ χειρί· νῦν μὲν
@@ -2076,8 +2076,8 @@
                                 δασέως τὴν <choice>
                                     <abbr>πο</abbr>
                                     <expan>πόλιν</expan>
-                                </choice> λέγεσθαι πῶς οὖν ἐν τῷ <title
-                                    n="urn:cts:greekLit:tlg0012.tlg001:2">Καταλόγῳ</title> ψιλῶς
+                                </choice> λέγεσθαι πῶς οὖν ἐν τῷ <ref type="urn"  n="urn:cts:greekLit:tlg0012.tlg001:2"><title
+                                   >Καταλόγῳ</title></ref> ψιλῶς
                                 ἀνέγνωμεν, <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:2.500</ref>
                                     <q>οἵ τ᾽ <placeName n="urn:cite:hmt:place.place137"
@@ -2170,8 +2170,8 @@
                                 οὖν τὸ ἄπορον καιρῷ καὶ τόπῳ διατρίβει γὰρ τὸ ὄρνεον περι τοὺς
                                 ἑλλώδεις τόπους καὶ θηρευτικὸν τὸ ζῷον· ἱστορεῖ περι αυτοῦ <persName
                                     n="urn:cite:hmt:pers.pers300">Ἀριστοτέλης</persName> ἐν τῷ
-                                    <title n="urn:cts:greekLit:tlg0086.tlg014">περὶ
-                                ζῴων</title>:</p>
+                                <ref type="urn" n="urn:cts:greekLit:tlg0086.tlg014"><title>περὶ
+                                ζῴων</title></ref>:</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.2513" type="scholion">
@@ -2197,8 +2197,8 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.277</p>
                         </div>
                         <div type="comment">
-                            <p> ὅτι ἐπὶ τῷ ὄρνη̈θι καὶ ἐν <title n="urn:cts:greekLit:tlg0012.tlg002"
-                                    >Ὀδυσσείᾳ</title>
+                            <p> ὅτι ἐπὶ τῷ ὄρνη̈θι καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                                    >Ὀδυσσείᾳ</title></ref>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:19.537</ref>
                                     <q>καί τε σφι ῥ αίνομαι εἰσορόωσα</q>
@@ -2261,10 +2261,10 @@
                                 προς <persName n="urn:cite:hmt:pers.pers116">Ἡρῆ</persName> καὶ
                                 πρᾶον λόγον ἔφερεν τοῖς <rs type="ethnic"
                                     n="urn:citehmt:place.place1">Ἀθηναίοις</rs> ἀπήει γὰρ
-                                προκηρυσσόμενος περι <title n="urn:cts:greekLit:tlg0012.tlg002"><choice>
+                                προκηρυσσόμενος περι <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title><choice>
                                         <abbr>οδ</abbr>
                                         <expan>Ὀδυσσείας</expan>
-                                    </choice></title>καὶ εἰρηνης ⁑</p>
+                                    </choice></title></ref> καὶ εἰρηνης ⁑</p>
                         </div>
 
                     </div>
@@ -2666,9 +2666,9 @@
                         <div type="comment">
                             <p>ὅτι νῦν μὲν ὅμιλον τὸ πλῆθος καὶ ἄθροισμα τῶν <rs type="ethnic"
                                     n="urn:cite:hmt:place.place6">Τρώων</rs> λέγει ἐν μὲν οὖν τῇ
-                                    <title n="urn:cts:greekLit:tlg0012.tlg001">Ἰλιάδι</title>
-                                πυκνότερον τὴν μάχην, <q>ὅμιλον</q> καλεῖ, ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg002">Ὀδυσσείᾳ</title> δὲ τὸ
+                                <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"><title>Ἰλιάδι</title></ref>
+                                πυκνότερον τὴν μάχην, <q>ὅμιλον</q> καλεῖ, ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                                    >Ὀδυσσείᾳ</title></ref> δὲ τὸ
                                 ἄθροισμα ⁑</p>
                         </div>
 
@@ -3204,8 +3204,8 @@
                         <div type="comment">
                             <p>πυραί, δηλοῖ δὲ ἡ λέξις, καὶ τὴν ἐστίαν καὶ τὸ ῥυπαρὸν καὶ καυθὲν
                                 ἕλκος καὶ τὸν βωμὸν, ὡς παρ᾽ <persName n="urn:cite:hmt:pers.pers97"
-                                    >Ευριπίδῃ</persName> ἐν <title
-                                    n="urn:cts:greekLit:tlg0006.tlg009">Ηρακλεῖ</title> καὶ τὴν
+                                    >Ευριπίδῃ</persName> ἐν <ref type="urn" n="urn:cts:greekLit:tlg0006.tlg009"><title
+                                    >Ηρακλεῖ</title></ref> καὶ τὴν
                                 κυρίως λεγομένην ⁑</p>
                         </div>
                     </div>
@@ -3252,8 +3252,8 @@
                         <div type="comment">
                             <p>ὅτι ὡς ὕστερον ἐληλυθότων τούτων μνημονεύει ὡς καὶ τῶν περὶ. τὸν
                                     <persName n="urn:cite:hmt:pers.pers452">Ῥῆσον</persName>
-                                οὐδεμίαν γὰρ αὐτῶν δια τοῦ <title
-                                    n="urn:cts:greekLit:tlg0012.tlg001:2">Καταλόγου</title> μνήμην
+                                οὐδεμίαν γὰρ αὐτῶν δια τοῦ <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001:2"><title
+                                    >Καταλόγου</title></ref> μνήμην
                                 πεποίηται :</p>
                         </div>
                     </div>
@@ -3690,18 +3690,18 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.476</p>
                         </div>
                         <div type="comment">
-                            <p>ἡ διπλῆ ὅτι καὶ ἐν <title n="urn:cts:greekLit:tlg0012.tlg001"
-                                    >Ϊλιάδι</title> νῦν τὸ <q>προπάροιθεν</q> ἐπι χρόνου τέταχεν.
+                            <p>ἡ διπλῆ ὅτι καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"><title 
+                                    >Ϊλιάδι</title></ref> νῦν τὸ <q>προπάροιθεν</q> ἐπι χρόνου τέταχεν.
                                 πρόσθεν ἠ ἰδεῖν τὸν <persName n="urn:cite:hmt:pers.pers215"
-                                    >Διομήδη</persName> οὐχ ὡς οἱ Χωρίζοντες ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg002"><choice>
+                                    >Διομήδη</persName> οὐχ ὡς οἱ Χωρίζοντες ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                                    ><choice>
                                         <abbr>οδ</abbr>
                                         <expan>Ὀδυσσείᾳ</expan>
-                                    </choice></title> μόνον ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg001"><choice>
+                                    </choice></title></ref> μόνον ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001"><title
+                                    ><choice>
                                         <abbr>Ἰλιάδ</abbr>
                                         <expan>Ἰλιάδι</expan>
-                                    </choice></title> δὲ τοπικῶς ⁑</p>
+                                    </choice></title></ref> δὲ τοπικῶς ⁑</p>
                         </div>
 
                     </div>
@@ -4134,11 +4134,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.573</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι λόφον αὐτὸν νῦν τὸν τένοντα ἔνθεν καὶ ἐν <title
-                                    n="urn:cts:greekLit:tlg0012.tlg002"><choice>
+                            <p>ὅτι λόφον αὐτὸν νῦν τὸν τένοντα ἔνθεν καὶ ἐν <ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002"><title
+                                    ><choice>
                                         <abbr>οδ</abbr>
                                         <expan>Ὀδυσσείᾳ</expan>
-                                    </choice></title>
+                                    </choice></title></ref>
                                 <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002.10:169</ref>
                                     <q>καταλοφάδεια</q>
