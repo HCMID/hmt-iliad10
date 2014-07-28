@@ -54,7 +54,7 @@
                                 τῆ ἥττη δυσθυμία. <q>παρα νηυσὶ</q> δὲ λέγει. ἐπεὶ οἱ φύλακες ἐκτὸς
                                 τῶν νεῶν ῆσαν οἶς τὸ εγρηγορέναι ἀναγκαῖον οὔτε δὲ οἱ ἀριστεῖς δι
                                 όλης τῆς νυκτὸς ἐκάθευδον, ἀλλ <persName
-                                    n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> τὸ παννύχιοι καὶ <cit>
+                                    n="urn:cite:hmt:pers.pers17">Ὅμηρος</persName> τὸ <q>παννύχιοι</q> καὶ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:1.472</ref>
                                     <q>πανημέριοι</q>
                                 </cit>, εἴωθε τιθέναι, καὶ ἐπι τῶν κατα μέρος, <cit>
@@ -130,7 +130,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:10.7</p>
                         </div>
                         <div type="comment">
-                            <p>ὅτι ὑγιῶς χρώμενοι, νείφειν μὲν λέγουσι. τὸ χιονίζειν <cit>
+                            <p>ὅτι ὑγιῶς χρώμενοι, νείφειν μὲν λέγουσι. τὸ <q>χιονίζειν</q> <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:10.6</ref>
                                     <q>ὄμβρον</q>
                                 </cit> δὲ τὸν ὑετόν <cit>
@@ -235,7 +235,7 @@
                                     ὁπλοποιϊας</title></ref> τῶν αὐλῶν μέμνηται. <cit>
                                     <ref>urn:cts:greekLit:tlg0012.tlg001.msA:18.495</ref>
                                     <q>αὐλοὶ φόρμιγγές τε βοῶν</q>
-                                </cit>. δεῖ δὲ καὶ τὸ ἀκούων πρὸς ὑπακούειν ἔξωθεν <choice>
+                                </cit>. δεῖ δὲ καὶ τὸ <q>ἀκούων</q> πρὸς ὑπακούειν ἔξωθεν <choice>
                                     <abbr>βραχ</abbr>
                                     <expan>βράχυ</expan>
                                 </choice> δὲ διασταλτέον μετὰ τὸ <q>αὐλῶν</q>
@@ -292,7 +292,7 @@
                             <p>εἰσὶν οἳ ἀνέγνωσαν καθ ἓν μερος <choice>
                                     <abbr>λο</abbr>
                                     <expan>λόγου</expan>
-                                </choice> ὡς <q>εὔμητιν</q> κακῶς. δύο γάρ ἐστι με λόγου <q>σὺν</q>
+                                </choice> ὡς <q>εὔμητιν</q> κακῶς. δύο γάρ ἐστι <choice><abbr>με</abbr><expan>μέρη</expan></choice> λόγου <q>σὺν</q>
                                 καὶ <q>μήτιν</q> τὸ δὲ ἐξ ἐστι συντέμοισι συντεκτῆναι τὸ
                                     <q>μῆτιν</q> ⁑</p>
                         </div>
@@ -337,7 +337,7 @@
                                     >Μενελάου</persName> ἐπι κεφαλαίου λέγει. ἡ διπλῇ δέ ὅτι
                                 ἀνταποδοτικόν ἐστὶ τοῦ ανω γράφειν, <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001.msA:10.10</ref>
-                                    <q>τρομέοντο δέοι·</q>
+                                    <q>τρομέοντο δέ οι·</q>
                                 </cit> ἡ δὲ <choice>
                                     <abbr>ἀναφο</abbr>
                                     <expan>ἀναφορὰ</expan>
@@ -362,7 +362,7 @@
                                     <q>αὐτῷ</q> ἀντωνυμίαν καθὲν ἐλάμβανεν ὡς ἐν τη συνηθείᾳ· ὁ δὲ
                                     <persName n="urn:cite:hmt:pers.pers485">Ἀσκαλωνίτης</persName>
                                 τὸν <q>αὖ</q> σύνδεσμον παρελάμβανε καὶ τὸ <q>τῷ</q>. ϊσοδυναμοῦν τῷ
-                                τούτῳ ὁμοίως τῷ <cit>
+                                <q>τούτῳ</q> ὁμοίως τῷ <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002.msA:14.161</ref>
                                     <q>τοῦδ᾽ αὖ λυκα</q>
                                 </cit>. ἴση δέ μοι δοκεῖ ἡ ἀνάγνωσις εἶναι, ἐπι μέντοι <cit>
@@ -459,8 +459,8 @@
                                     <expan>κατάσκοπον</expan>
                                 </choice>
                                 <persName n="urn:cite:hmt:pers.pers247">Νικίας</persName> δὲ
-                                ἀναστρέφει τὴν ἐπί ἵν᾽ ᾖ ἐπι <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place6">Τρώεσσιν</rs> εἰσὶ δὲ οἳ
+                                ἀναστρέφει τὴν <q>ἐπί</q> ἵν᾽ ᾖ <q>ἐπι <rs type="ethnic"
+                                    n="urn:cite:hmt:place.place6">Τρώεσσιν</rs></q> εἰσὶ δὲ οἳ
                                 ἀνεγνώκασιν <cit>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg001:6.346</ref>
                                     <ref type="urn">urn:cts:greekLit:tlg0012.tlg002:8.502</ref>
@@ -560,7 +560,7 @@
                                         <expan>Ζηνόδοτος</expan>
                                     </choice></persName> μετήνεγκεν ἐπι τὸν <persName
                                     n="urn:cite:hmt:pers.pers172">Ἕκτορος</persName> λόγον κατὰ τὴν
-                                κόλον μάχην.</p>
+                                <title n="urn:cts:greekLite:tlg0012.tlg001:8">κόλον μάχην</title>.</p>
                         </div>
                     </div>
                     <div n="urn:cts:greekLit:tlg5026.msA.hmt:10.6000" type="scholion">
